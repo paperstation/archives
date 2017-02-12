@@ -1,0 +1,18 @@
+#Files and folders specified here will never be tracked.
+
+*.ban
+*.bdb
+*.log
+*.sav
+
+#Compiled files and other files generated during compilation.
+*.dmb
+*.rsc
+*.lk
+*.int
+/data/mode.txt
+*.html
+data/ban_unban_log.txt
+data/consistent.ini
+*.db
+config/config.txt
