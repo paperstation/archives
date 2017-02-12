@@ -1,0 +1,3 @@
+<B>SomethingDickful Authentication Failed!</B><br>
+If you wish to set this up, go <a href="http://forums.somethingdickful.com/misc.php?page=byond" target="_blank">here</a> and type in your Byond username.<br>
+This will give you access to various new things and let you unlock achievements.<br>

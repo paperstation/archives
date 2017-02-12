@@ -1,0 +1,197 @@
+
+
+I'll divide these into catagories as well, the entirety of D2Dorf needs sprites. heh..
+
+
+
+
+
+
+
+	----------------
+	SS13 sprite list
+	----------------
+
+Hand-held defibulator (needs an in hand overlay as well as icon)
+Some alien items based on the tech artifacts
+New plasma-cutter (runs off gas plasma like a flame thrower does)
+New Laser drill (the current looks like a dildo gun)
+Radio-jammer (components are headset, proximity sensor, and remote signalling device.)
+Engineering space suit (complete with helmet that has a toggle light)
+poo footsteps (yes I'm serious, like how the blood footsteps work)
+poo streaks (for above, but when slipping)
+Fried chicken (wings, drumsticks breasts)
+Taco
+Full-sized cooked bird
+Fatman versions of clothes which do not yet have fatman versions.
+Surgery computer console (it currently looks the same as the comms console)
+An 'activated' PAI
+Makeshift pop-can grenade sprites. (along with 'activated' version)
+A little bus similar to the robustmobile (Adminbus)
+Pie mask (Aka pie to face overlay)
+various oragami (Paper hat icon, we have the overlay for it, paper plane that rotates all 8 directions)
+New Matchbox
+
+new material sheets for the following items
+	-Pharosium
+	-Char
+	-Claretine
+	-Bohrum
+	-Syreline
+	-Erebite
+	-Elerium (this is from X-Com, so perhaps a round little capsule)
+	-Cytine
+	-Uqill
+	-telecrystal
+	-mauxite
+	-cobryl
+	-cerenkite
+	-Molitz
+
+
+
+
+
+
+
+
+
+
+
+
+
+	-------------------
+	D2Dorf sprite list
+	-------------------
+
+Livestock (all need 4 directions)
+-----
+Chicken
+Rooster
+chick
+egg 
+
+Dog
+Puppy
+
+Cow
+Bull
+Calf
+
+
+Horse
+foal
+
+Goat
+kid
+
+Ewe
+Ram
+Lamp
+
+Sow
+Boar
+piglet
+
+
+Tools & weapons
+-----
+Icons as well as overlays for all of these
+As well as "sheathed" overlay versions when on the hip for those which make sense
+
+Bow (wooden)
+Crossbow (wooden, bone, metal)
+Blowgun (wooden)
+Pick (Metal)
+shovel (wooden, metal, stone)
+chopping axe (metal, stone)
+battle axe (Metal, wooden training)
+warhammer (metal, wooden training)
+maul (Wood, Metal, Stone)
+mace (metal, wooden training)
+spear (metal, stone tip, wooden training
+sword (metal, obsidian, wooden training)
+large dagger (metal)
+bucket (metal and wooden variety, with water, lava, and milk in them.)
+
+
+Toys & instruments
+-----
+Drum
+Tamborine
+trumpet
+rock guitar (Like, a stone guitar)
+flute
+Maracas (MaROCKas HA!)
+bagpipes
+
+
+
+Furniture
+-----
+Chair (Wood, stone, metal, glass)
+table (Wood, stone, metal, glass)
+Bed frame (wood, stone, metal, glass)
+bedding (straw, silk, plantfiber cloth, animal hide)
+well (wooden, stone)
+barrel
+bin
+cabinet
+weaponrack (wooden, stone, metal)
+armorrack (wooden, stone, metal)
+training dummy (Get creative I guess, wooden bucket for a helmet perhaps?)
+
+
+Armor
+-----
+All require overlays as well as the icon
+
+Torso piece
+Pants/greaves (metal, cloth, leather pants, leather greaves, Shell, bone)
+low boots (metal, cloth, leather)
+high boots (metal, leather)
+helmet (leather, shell, metal)
+Gloves (leather, metal)
+robes (leather, cloth)
+Capes (leather, cloth of various colors)
+Shield (wood, leather, metal. Square, round, kite.)
+
+
+Landscape junk
+-----
+Rocks
+Trees
+stone turf
+Grass
+Sand
+shrubs
+Mud
+furrowed soil
+water
+'empty space' (VERY IMPORTANT)
+natural walls (soil, sand, rough-stone, smooth stone, decorated stone, ore types)
+burnt land
+running water
+
+
+
+Buildings
+-----
+walls (wood, stone, metal)
+Fortifications (wood, stone, metal)
+anvil (metal)
+smelter
+crucible
+steam boiler (complete with steam gauge and fire burning animation)
+gears (complete with turning animation)
+shafts (with turning animation)
+bridge (up and down)
+floors (wood, stone, metal)
+sawhorse
+fire
+floodgate
+grate
+bars
+lever
+cage
+spike trap (up and down positions)

@@ -1,0 +1,41 @@
+{
+  "private": true,
+  "devDependencies": {
+    "autoprefixer-core": "^5.2.1",
+    "cssnano": "^2.1.1",
+    "grunt": "^0.4.5",
+    "grunt-concurrent": "^1.0.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-htmlmin": "^0.4.0",
+    "grunt-contrib-imagemin": "^0.9.3",
+    "grunt-contrib-uglify": "^0.8.0",
+    "grunt-eslint": "^16.0.0",
+    "grunt-newer": "^1.1.0",
+    "grunt-postcss": "^0.5.3",
+    "grunt-sass": "^1.0.0",
+    "grunt-string-replace": "^1.2.0",
+    "grunt-svgmin": "^2.0.1",
+    "grunt-wiredep": "^2.0.0",
+    "jit-grunt": "^0.9.1",
+    "time-grunt": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "eslintConfig": {
+    "env": {
+      "node": true,
+      "browser": true
+    },
+    "rules": {
+      "quotes": [
+        2,
+        "single"
+      ]
+    }
+  }
+}

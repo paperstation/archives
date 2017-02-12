@@ -1,0 +1,173 @@
+
+
+Starting up. 11:19.05
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'admin_legacy_system'
+Unknown setting in configuration: 'ban_legacy_system'
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'ticklag'
+Saved mode is 'extended'
+[11:19:06]ADMIN: Loading jobban_rank
+[11:19:06]ADMIN: jobban_keylist was empty
+[11:19:06]ADMIN: Updating jobbanfile!
+[11:19:06]ADMIN: Loading Banlist
+[11:19:06]ADMIN: Banlist is empty.
+[11:19:06]ADMIN: Banlist missing base dir.
+[11:20:22]ACCESS: Login: Nexendia/(Nexendia) from 127.0.0.1-467845700 || BYOND v507
+[11:25:30]ACCESS: Logout: Nexendia/(Nexendia)
+
+
+Starting up. 21:09.46
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'admin_legacy_system'
+Unknown setting in configuration: 'ban_legacy_system'
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'ticklag'
+Saved mode is 'extended'
+[21:11:39]ADMIN: Loading jobban_rank
+[21:11:39]ADMIN: jobban_keylist was empty
+[21:11:39]ADMIN: Updating jobbanfile!
+[21:11:39]ADMIN: Loading Banlist
+[21:11:40]ACCESS: Login: ErikHanson/(ErikHanson) from localhost-2853358941 || BYOND v507
+[21:13:41]ACCESS: Logout: *no key*/(ErikHanson)
+[21:13:41]ACCESS: Login: ErikHanson/(Loreto Nicholas) from localhost-2853358941 || BYOND v507
+[21:15:05]ACCESS: Logout: ErikHanson/(Loreto Nicholas)
+
+
+Starting up. 21:15.56
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'admin_legacy_system'
+Unknown setting in configuration: 'ban_legacy_system'
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'ticklag'
+Saved mode is 'extended'
+[21:16:02]ADMIN: Loading jobban_rank
+[21:16:02]ADMIN: jobban_keylist was empty
+[21:16:02]ADMIN: Updating jobbanfile!
+[21:16:02]ADMIN: Loading Banlist
+[21:16:04]ACCESS: Login: ErikHanson/(ErikHanson) from localhost-2853358941 || BYOND v507
+[21:16:32]ADMIN: ErikHanson has started the game.
+[21:16:33]ACCESS: Logout: *no key*/(ErikHanson)
+[21:16:33]ACCESS: Login: ErikHanson/(Assistant Cassandra Roberts) from localhost-2853358941 || BYOND v507
+[21:17:10]ADMIN: ErikHanson/(Assistant Cassandra Roberts) edited space to fire.
+[21:17:17]ADMIN: ErikHanson/(Assistant Cassandra Roberts) edited space to nacho.
+[21:17:21]ADMIN: ErikHanson/(Assistant Cassandra Roberts) edited space to bloodriver.
+[21:18:39]ADMIN: ErikHanson/(Assistant Cassandra Roberts) changed the equipment of ErikHanson/(Assistant Cassandra Roberts) to centcom commander.
+[21:19:15]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/machinery/jammer at (137,121,1)
+[21:22:33]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/machinery/blackjack at (138,120,1)
+[21:22:44]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/machinery/blackjack/VIP at (136,120,1)
+[21:25:46]ADMIN: ErikHanson/(Assistant Cassandra Roberts) deleted Firelock at (137,111,1)
+[21:25:51]ADMIN: ErikHanson/(Assistant Cassandra Roberts) deleted Firelock at (137,102,1)
+[21:26:57]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/scrap at (136,96,1)
+[21:28:22]SAY: German/ : eh?
+[21:29:28]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/structure/stool/bed/chair/wizard_car at (157,90,1)
+[21:29:47]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/wizard_key at (157,92,1)
+[21:30:18]SAY: German/ : eh?
+[21:31:19]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/structure/safe/floor at (180,109,1)
+[21:31:32]ADMIN: ErikHanson/(Assistant Cassandra Roberts) used 'kill air'.
+[21:31:34]ADMIN: ErikHanson/(Assistant Cassandra Roberts) used 'kill air'.
+[21:31:36]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/structure/device/piano at (179,110,1)
+[21:32:13]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/structure/ladder at (177,110,1)
+[21:32:24]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/structure/stool/bed/nest at (176,110,1)
+[21:32:57]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/trash/candy at (148,140,1)
+[21:33:06]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/toy/balloon at (148,139,1)
+[21:33:12]SAY: Syndicat/ : I am a real cat.
+[21:33:30]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/toy/blink at (147,139,1)
+[21:33:55]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/toy/ferrite at (146,139,1)
+[21:34:02]SAY: German/ : EHEHEHEHEH
+[21:34:03]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/toy/credits at (145,139,1)
+[21:34:40]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/effect/gibspawner/generic at (146,139,1)
+[21:34:44]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/effect/gibspawner/robot at (150,138,1)
+[21:34:49]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/effect/gibspawner/xeno at (152,139,1)
+[21:34:55]ADMIN: ErikHanson/(Assistant Cassandra Roberts) used 'kill air'.
+[21:34:56]ADMIN: ErikHanson/(Assistant Cassandra Roberts) used 'kill air'.
+[21:34:58]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/effect/vaultspawner at (150,139,1)
+[21:35:06]ADMIN: ErikHanson/(Assistant Cassandra Roberts) deleted the wall at (150,140,1)
+[21:35:22]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/device/guitar at (148,146,1)
+[21:36:00]ADMIN: ErikHanson/(Assistant Cassandra Roberts) made all areas powered
+[21:36:03]ADMIN: ErikHanson/(Assistant Cassandra Roberts) used secret power
+[21:36:55]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/device/speaker at (144,156,1)
+[21:37:01]SAY: Text-To-Speech Device/ : ayylmao
+[21:38:09]SAY: German/ : eh?
+[21:38:11]SAY: Syndicat/ : Me-ow, Me-ow, Me-ow; I am a real cat.
+[21:38:45]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/stack/sheet/animalhide/lizard at (144,163,1)
+[21:38:51]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/stack/sheet/animalhide/xeno at (143,163,1)
+[21:38:57]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/stack/sheet/xenochitin at (142,163,1)
+[21:39:02]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/xenos_claw at (141,163,1)
+[21:39:11]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/stack/sheet/hairlesshide at (143,164,1)
+[21:39:17]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/stack/sheet/wetleather at (144,164,1)
+[21:39:22]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/stack/sheet/leather at (145,163,1)
+[21:39:25]SAY: Syndicat/ : I am a real cat.
+[21:39:28]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/stack/sheet/animalhide/cat at (145,164,1)
+[21:39:35]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/stack/sheet/animalhide/corgi at (142,164,1)
+[21:39:39]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/stack/sheet/animalhide/human at (141,164,1)
+[21:41:33]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/stack/sheet/cloth at (140,163,1)
+[21:41:46]ADMIN: ErikHanson/(Assistant Cassandra Roberts) modified cloth's amount to 50
+[21:44:13]ADMIN: ErikHanson/(Assistant Cassandra Roberts) used 'kill air'.
+[21:44:16]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/weapon/rsf at (139,163,1)
+[21:44:24]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/weapon/rsf/station at (139,164,1)
+[21:44:52]ADMIN: ErikHanson/(Assistant Cassandra Roberts) used 'kill air'.
+[21:44:53]ADMIN: ErikHanson/(Assistant Cassandra Roberts) used 'kill air'.
+[21:44:56]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/weapon/wire at (139,163,1)
+[21:45:32]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/structure/closet/secure_closet/armorysafe at (138,164,1)
+[21:45:35]SAY: German/ : eh?
+[21:46:32]ADMIN: ErikHanson/(Assistant Cassandra Roberts) used 'kill air'.
+[21:46:33]ADMIN: ErikHanson/(Assistant Cassandra Roberts) used 'kill air'.
+[21:46:34]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/structure/displaycase at (137,164,1)
+[21:47:09]SAY: German/ : EHEHEHEHEH
+[21:47:17]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/structure/flora/tree/pine at (140,164,1)
+[21:47:28]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/structure/furnace at (152,156,1)
+[21:47:45]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/structure/girder at (151,156,1)
+[21:47:51]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/structure/stool/bed/chair/janicart at (153,154,1)
+[21:47:58]ADMIN: ErikHanson/(Assistant Cassandra Roberts) used 'kill air'.
+[21:47:59]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/structure/kitchenspike at (154,154,1)
+[21:48:15]ADMIN: ErikHanson/(Assistant Cassandra Roberts) spawned /obj/item/weapon/contraband/poster at (154,159,1)
+[21:49:39]SAY: Syndicat/ : Me-ow!
+[21:53:37]SAY: Syndicat/ : Me-ow!
+[21:54:31]SAY: Syndicat/ : Me-ow, Me-ow, Me-ow; I am a real cat.
+[22:02:15]SAY: Syndicat/ : Me-ow, Me-ow, Me-ow; I am a real cat.
+[22:03:07]SAY: Syndicat/ : I do cat things.
+[22:09:29]SAY: German/ : EHEHEHEHEH
+[22:10:03]SAY: German/ : EHEHEHEHEH
+[22:15:21]SAY: Syndicat/ : Me-ow!
+[22:16:49]SAY: Syndicat/ : Me-ow!
+[22:18:38]ACCESS: Logout: ErikHanson/(Assistant Cassandra Roberts)

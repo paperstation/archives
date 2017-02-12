@@ -1,0 +1,30 @@
+// DM Environment file for Base64.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+/*
+FILE: Base64.dm
+*/
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "Base64.dm"
+#include "binary.dm"
+#include "hexadecimal.dm"
+#include "text.dm"
+#ifdef __MAIN__ // BEGIN_DEMO
+#include "demo.dm"
+#endif          // END_DEMO
+// END_INCLUDE
+
+#ifdef __MAIN__
+#include "demo.dm"
+#endif
+

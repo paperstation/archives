@@ -1,0 +1,121 @@
+"aa" = (/turf/space,/area)
+"ab" = (/obj/item/stack/tile,/turf/space,/area)
+"ac" = (/obj/lattice,/obj/item/weapon/cable_coil/cut,/obj/item/weapon/shard,/turf/space,/area/commsat/solar)
+"ad" = (/obj/cable{icon_state = "0-2"; d2 = 2},/obj/cable{d2 = 8; icon_state = "0-8"},/obj/machinery/light/floorbeaconblue,/turf/simulated/floor/plating/airless,/area/commsat/solar)
+"ae" = (/obj/item/stack/tile{pixel_x = 8; pixel_y = 8},/turf/space,/area)
+"af" = (/obj/machinery/power/solar{id = "comsatellitesolar"; name = "Communications Satellite Solar Array"},/turf/simulated/floor/airless{tag = "icon-solarpanel"; icon_state = "solarpanel"},/area/commsat/solar)
+"ag" = (/obj/cable,/obj/cable{icon_state = "0-2"; d2 = 2},/obj/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor/plating/airless,/area/commsat/solar)
+"ah" = (/obj/lattice,/turf/space,/area/commsat/solar)
+"ai" = (/obj/cable,/obj/cable{icon_state = "0-2"; d2 = 2},/obj/cable{d2 = 8; icon_state = "0-8"},/obj/item/weapon/shard{tag = "icon-medium"; icon_state = "medium"},/obj/landmark{name = "Corpse-CommEngineer-Space"},/turf/simulated/floor/plating/airless,/area/commsat/solar)
+"aj" = (/obj/lattice,/obj/item/weapon/cable_coil/cut,/obj/item/weapon/shard{tag = "icon-small"; icon_state = "small"},/obj/item/weapon/shard{tag = "icon-medium"; icon_state = "medium"},/turf/space,/area/commsat/solar)
+"ak" = (/obj/lattice,/turf/space,/area)
+"al" = (/obj/item/weapon/cable_coil/cut,/obj/lattice,/turf/space,/area)
+"am" = (/turf/simulated/wall,/area/commsat)
+"an" = (/obj/lattice,/turf/space,/area/commsat)
+"ao" = (/obj/grille,/obj/window/reinforced{tag = "icon-rwindow (NORTHEAST)"; icon_state = "rwindow"; dir = 5},/turf/simulated/floor/plating/airless,/area/commsat)
+"ap" = (/obj/door_assembly/door_assembly_ext,/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/door/firedoor/border_only,/turf/simulated/floor/plating/airless,/area/commsat)
+"aq" = (/obj/sign/sign_shock,/turf/simulated/wall,/area/commsat)
+"ar" = (/turf/simulated/floor/plating/airless,/area/commsat)
+"as" = (/obj/machinery/power/solar_control{id = "comsatellitesolar"; name = "Communications Satellite Solar Control"; track = 2},/obj/cable{d2 = 4; icon_state = "0-4"; pixel_y = 0},/obj/decal/cleanable/dirt,/obj/machinery/light/small{dir = 1},/turf/simulated/floor/plating/airless,/area/commsat)
+"at" = (/obj/decal/cleanable/dirt,/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless,/area/commsat)
+"au" = (/obj/decal/cleanable/dirt,/obj/machinery/power/terminal,/obj/cable{icon_state = "0-2"; d2 = 2},/obj/cable{d2 = 8; icon_state = "0-8"},/obj/cable{d2 = 4; icon_state = "0-4"; pixel_y = 0},/turf/simulated/floor/plating/airless,/area/commsat)
+"av" = (/obj/cable{icon_state = "2-8"; d1 = 2; d2 = 8},/obj/decal/cleanable/dirt,/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/simulated/floor/plating/airless,/area/commsat)
+"aw" = (/obj/machinery/light/small{dir = 1},/turf/simulated/floor/plating/airless,/area/commsat)
+"ax" = (/obj/machinery/ai_status_display,/turf/simulated/wall,/area/commsat)
+"ay" = (/obj/lattice,/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/turf/space,/area/commsat)
+"az" = (/obj/lattice,/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/turf/space,/area/commsat)
+"aA" = (/obj/lattice,/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/obj/cable{d1 = 4; d2 = 10; icon_state = "4-10"},/turf/space,/area/commsat)
+"aB" = (/obj/lattice,/obj/cable{d1 = 6; d2 = 8; icon_state = "6-8"},/obj/cable{d1 = 6; d2 = 10; icon_state = "6-10"},/turf/space,/area/commsat)
+"aC" = (/obj/decal/cleanable/dirt,/obj/machinery/power/apc{dir = 1; name = "CommSat APC"; pixel_y = 24},/obj/cable{icon_state = "0-2"; d2 = 2},/obj/item/weapon/cell,/turf/simulated/floor/plating/airless,/area/commsat)
+"aD" = (/obj/decal/cleanable/dirt,/turf/simulated/floor/plating/airless,/area/commsat)
+"aE" = (/obj/decal/cleanable/dirt,/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/turf/simulated/floor/plating/airless,/area/commsat)
+"aF" = (/obj/machinery/power/smes{charging = 1},/obj/cable{d2 = 4; icon_state = "0-4"; pixel_y = 0},/obj/decal/cleanable/dirt,/obj/cable,/turf/simulated/floor/plating/airless,/area/commsat)
+"aG" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/turf/simulated/floor/plating/airless,/area/commsat)
+"aH" = (/obj/item/weapon/cable_coil,/turf/simulated/floor/plating/airless,/area/commsat)
+"aI" = (/obj/decal/cleanable/cobweb2,/turf/simulated/floor/plating/airless,/area/commsat)
+"aJ" = (/obj/grille,/obj/window/reinforced{tag = "icon-rwindow (NORTHEAST)"; icon_state = "rwindow"; dir = 5},/turf/simulated/wall,/area/commsat)
+"aK" = (/obj/lattice,/obj/item/stack/rods,/obj/item/weapon/shard{tag = "icon-small"; icon_state = "small"},/turf/space,/area/commsat)
+"aL" = (/obj/lattice,/obj/cable{d1 = 1; d2 = 10; icon_state = "1-10"},/turf/space,/area/commsat)
+"aM" = (/obj/lattice,/obj/cable{icon_state = "0-2"; d2 = 2},/obj/cable{d2 = 5; icon_state = "0-5"},/turf/space,/area/commsat)
+"aN" = (/obj/lattice,/obj/cable{d1 = 2; d2 = 9; icon_state = "2-9"},/turf/space,/area/commsat)
+"aO" = (/obj/machinery/light{dir = 8; icon_state = "tube1"; tag = "icon-default (WEST)"},/obj/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/turf/simulated/floor/plating/airless,/area/commsat)
+"aP" = (/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless,/area/commsat)
+"aQ" = (/obj/decal/cleanable/dirt,/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/simulated/floor/plating/airless,/area/commsat)
+"aR" = (/obj/cable{d1 = 4; d2 = 10; icon_state = "4-10"},/turf/simulated/floor/plating/airless,/area/commsat)
+"aS" = (/obj/grille,/obj/window/reinforced{tag = "icon-rwindow (NORTHEAST)"; icon_state = "rwindow"; dir = 5},/obj/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/turf/simulated/wall,/area/commsat)
+"aT" = (/obj/cable{d1 = 6; d2 = 8; icon_state = "6-8"},/obj/cable{d1 = 5; d2 = 8; icon_state = "5-8"},/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless,/area/commsat)
+"aU" = (/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/obj/machinery/light/floortube{pixel_y = -14},/obj/machinery/light/floortube{pixel_y = 14},/turf/simulated/floor/plating/airless,/area/commsat)
+"aV" = (/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/obj/cable{icon_state = "2-8"; d1 = 2; d2 = 8},/turf/simulated/floor/plating/airless,/area/commsat)
+"aW" = (/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/obj/cable{icon_state = "2-8"; d1 = 2; d2 = 8},/obj/machinery/light/floortube{pixel_y = -14},/obj/machinery/light/floortube{pixel_y = 14},/turf/simulated/floor/plating/airless,/area/commsat)
+"aX" = (/obj/cable{icon_state = "0-2"; d2 = 2},/obj/cable{d2 = 8; icon_state = "0-8"},/obj/cable,/obj/cable{d2 = 4; icon_state = "0-4"; pixel_y = 0},/turf/simulated/floor/plating/airless,/area/commsat)
+"aY" = (/obj/cable{d2 = 8; icon_state = "0-8"},/obj/item/device/radio/beacon{layer = 2.5},/turf/simulated/floor/plating/airless,/area/commsat)
+"aZ" = (/obj/machinery/firealarm{dir = 8; pixel_x = -24},/obj/cable{d2 = 4; icon_state = "0-4"; pixel_y = 0},/turf/simulated/floor/plating/airless,/area/commsat)
+"ba" = (/obj/cable{d2 = 8; icon_state = "0-8"},/obj/item/weapon/cable_coil/cut,/turf/simulated/floor/plating/airless,/area/commsat)
+"bb" = (/obj/machinery/computer/crew/radiotransmitter{pixel_x = -1; pixel_y = 9},/obj/cable,/obj/cable{icon_state = "0-2"; d2 = 2},/obj/cable{d2 = 4; icon_state = "0-4"; pixel_y = 0},/turf/simulated/floor/plating/airless,/area/commsat)
+"bc" = (/obj/cable{d1 = 5; d2 = 8; icon_state = "5-8"},/turf/simulated/floor/plating/airless,/area/commsat)
+"bd" = (/obj/grille,/obj/window/reinforced{tag = "icon-rwindow (NORTHEAST)"; icon_state = "rwindow"; dir = 5},/obj/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/turf/simulated/wall,/area/commsat)
+"be" = (/obj/lattice,/obj/cable,/obj/cable{d2 = 6; icon_state = "0-6"},/turf/space,/area/commsat)
+"bf" = (/obj/machinery/light/small,/turf/simulated/floor/plating/airless,/area/commsat)
+"bg" = (/obj/item/weapon/tank/air,/turf/simulated/floor/plating/airless,/area/commsat)
+"bh" = (/obj/machinery/space_heater,/obj/machinery/light/small,/turf/simulated/floor/plating/airless,/area/commsat)
+"bi" = (/obj/lattice,/obj/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/turf/space,/area/commsat)
+"bj" = (/obj/lattice,/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/obj/cable{d1 = 4; d2 = 9; icon_state = "4-9"},/turf/space,/area/commsat)
+"bk" = (/obj/lattice,/obj/cable{d1 = 5; d2 = 8; icon_state = "5-8"},/obj/cable{d1 = 5; d2 = 9; icon_state = "5-9"},/turf/space,/area/commsat)
+"bl" = (/obj/machinery/door/airlock/external{name = "Airlock"},/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/turf/simulated/floor/plating/airless,/area/commsat)
+"bm" = (/obj/cable{icon_state = "0-2"; d2 = 2},/obj/cable{d2 = 8; icon_state = "0-8"},/obj/cable,/turf/simulated/floor/plating/airless,/area/commsat/solar)
+"bn" = (/obj/lattice,/obj/lattice,/turf/space,/area)
+"bo" = (/obj/machinery/power/tracker,/obj/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor/airless{tag = "icon-solarpanel"; icon_state = "solarpanel"},/area/commsat/solar)
+"bp" = (/obj/cable,/obj/cable{d2 = 8; icon_state = "0-8"},/obj/machinery/light/floorbeaconred,/turf/simulated/floor/plating/airless,/area/commsat/solar)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaacadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaeaaafagaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaahaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaafajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaakakakafagalakaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaakakamamafagamananaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaakamamaoaoapaqamararaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaamamasatauavawaxamanayazaAaAaBaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaamaCaDaEaFaGaHaIaJaKaLaMaMaMaMaNanaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaamaOaPaQaDaGaraRaSaTaUaVaWaVaWaXaYanaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaamaZbaararbbbcarbdanaNbebebebeaLanaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaamambfbgaraGbhamamanbiazbjbjbkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaakamamaJaJblaqamararaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaakakamamafbmamananaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaakakbnafagboakaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaafagakakaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaafagaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaafagaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaafbpaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

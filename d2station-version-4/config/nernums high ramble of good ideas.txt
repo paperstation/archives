@@ -1,0 +1,81 @@
+nernums is big fag
+
+
+because we should be able to pour space lube onto water bottles and shit to make them into banana-peel quality items
+
+
+1
+8:33 PM - Nernums: erika erika erika
+8:33 PM - Nernums: I just realized that all items are essentially just file paths with data on the end of it in ss13
+8:34 PM - Nernums: and since we can edit items mid game
+8:34 PM - Nernums: that means that we should be able to spawn custom items
+
+2
+8:44 PM - Nernums: oh man, something else we should do, is the throwing stunbaton idea
+8:44 PM - Nernums: but you know how when you throw pipes they turn a different way? we do that with the baton!
+DONE -- deadsnipe
+
+3
+9:32 PM - Nernums: OH MAN I JUST REALIZED
+9:32 PM - Nernums: WE CAN MAKE TINY MENUS IN THE ICONS
+9:32 PM - Nernums: like 2 buttons a square
+9:33 PM - Nernums: we can put it errywhere
+9:33 PM - Nernums: on errything
+
+4
+10:00 PM - Nernums: erika
+10:01 PM - Nernums: richest escapee, shows up as , 0$
+10:01 PM - Nernums: no infor loaded amirite
+10:04 PM - Nernums: also, maybe we should have multiple accounts, like have one managed only by the forums
+10:05 PM - Nernums: so you can draw and pull money from account
+10:05 PM - Nernums: to make sure its safe if you get stunned while withdrawing
+10:05 PM - Nernums: LOL
+
+5
+10:18 PM - Nernums: oh my god ERIKA
+10:18 PM - Nernums: WHAT IF
+10:18 PM - Nernums: WHAT IF
+10:18 PM - Nernums: WHAT IF GOGDAMN
+10:18 PM - Nernums: AIS AND CYBORGS
+10:18 PM - Nernums: COULD ALL HEAR EACHOTHERS LOCAL CHAT
+10:18 PM - Nernums: LIKE WHAT THE CYBORGS SAYING
+10:19 PM - Nernums: LIKE ITS A COLLECTIVE MIND
+
+6
+10:19 PM - Nernums: or for that matter, make the borg
+
+7
+10:22 PM - Nernums: ALSO
+10:22 PM - Nernums: we need to edit the restart vote
+10:22 PM - Nernums: to make it end the round instead of restarting
+10:23 PM - Nernums: that way people don't get jewed out as badly
+10:23 PM - Nernums: some fucker tried to call a vote when I called the shuttle
+10:23 PM - Nernums: that fucker being screw ball
+
+
+8
+11:23 PM - Nernums: we could totally like
+11:23 PM - Nernums: give people goatfart for a round, for dcoins
+11:23 PM - Nernums: as one of the higher prices
+11:23 PM - Nernums: like
+11:23 PM - Nernums: 75 dcoin
+
+9
+1:49 AM - Nernums: OH MY GOD I JUST REALIZED HOW TO MAKE MINI-UZIS ECT FIRE FULL AUTO
+1:49 AM - Nernums: we just make it so when you self-hit with the item
+1:49 AM - Nernums: it fires in the direction you're standing
+1:49 AM - Nernums: hold pg dn
+1:49 AM - Nernums: and it fires
+
+10
+1:51 AM - Nernums: also I've decided that I like girders not having health, it means you can only bash down doors and wall panels to see through them
+1:52 AM - Nernums: but will keep the structure still there
+1:52 AM - Nernums: alternatively, make it so the girders have the climb var on them
+
+11
+The ability to eat things that aren't food via a command.
+You may get these items back by pooping.
+(Item in hand, use "Attempt to eat item" command, run a check for if its edible or not, and if it edible, eat it like a reagent,
+(if its not edible, hold still and try to choke it back.
+(Only small and tiny items may be eaten this way for 'storage'
+((bonus points for if radios still work when eaten

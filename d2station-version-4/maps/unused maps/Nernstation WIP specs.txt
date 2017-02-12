@@ -1,0 +1,90 @@
+What is needed for Nernstation specifications
+
+
+Work so far key
+x finished
+- not done yet
+o Ommitted
+
+
+Medbay specs
+-Robotics lab
+-Chem lab
+-Genetics modifier
+-Cloner
+-Monkeys
+-Med storage
+-Operating room
+-Body scanner
+-Sleepers
+-Cryo
+-Nanomed plus machines
+-Bloodbank pro machines
+-relevant computer terms
+
+Security specs
+-Good camera system
+-Weapons lockers
+-court room
+-cells
+-HoS office
+
+Quartermaster specs
+-HoP Office
+-2-way Disposal pipes delivery system with glass doors only quarter master can open
+-delivery ship entrance
+-Disposal pipe for trash winds up here on a conveyor belt moving towards a crusher behind reinforced glass
+-Delivery truck icons set to 
+icons\obj\vehicles.dmi\qmtruck1 <-moving
+icons\obj\vehicles.dmi\qmtruck0 <-sitting still
+
+Cafeteria specs
+-Microwave
+-Counter
+-Sink
+-Fridges
+-Gibber
+-Monkey rack
+-Food processor
+-Blender
+-Sauce maker
+-Botany inbetween bar and kitchen
+
+
+Engineering specs
+-Power Source
+-Way of turning on power source
+-Smes units to store power
+-Wires giving the ship power
+-Janitor closet merged into engineering
+-Tool storage areas
+-Autolathes
+-Pipe dispensors
+-engineering or rig suits
+
+
+Atmos specs
+-Filtration system
+-Input system 80% n2 20% o2 high pressure
+-Repressurization system
+-Firealarm system
+-temperature control
+
+
+
+R&D specs
+-Servers
+-Destructive analyzer
+-Circuit imprinter
+-Protolathe
+-Autolathe
+-gas mixing rigs
+-gas to mix in the rigs
+-gas cooling rig
+-gas heating rig
+-Next to Quartermaster
+
+Ai specs
+-Good camera network
+-Upload
+-Chamber

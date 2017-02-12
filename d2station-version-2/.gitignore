@@ -1,0 +1,30 @@
+*.log
+*.int
+*.rsc
+*.dmb
+*.lk
+info.json
+
+# WinMerge backups
+*.bak
+
+# String dumps
+*.str
+
+# Compiled Python doohickies
+*.pyc
+
+#Doesn't work for some reason. Git ignores everything in config.
+#ignore any files in config/, except those in subdirectories.
+#/config/*
+#!/config/*/*
+
+# OpenBYOND-generated crap
+/dmis
+/interface-indented
+/code-indented
+
+.metadata
+/bot/config.yml
+/bot/data
+/analysis

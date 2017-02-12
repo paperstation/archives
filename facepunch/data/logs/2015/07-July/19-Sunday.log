@@ -1,0 +1,75 @@
+
+
+Starting up. 05:42.56
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'admin_legacy_system'
+Unknown setting in configuration: 'ban_legacy_system'
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'ticklag'
+Saved mode is 'extended'
+[05:42:56]ADMIN: Loading jobban_rank
+[05:42:56]ADMIN: jobban_keylist was empty
+[05:42:56]ADMIN: Updating jobbanfile!
+[05:42:56]ADMIN: Loading Banlist
+[05:43:41]ACCESS: Login: ErikHanson/(ErikHanson) from 127.0.0.1-2853358941 || BYOND v507
+[05:45:02]ADMIN: ErikHanson has started the game.
+[05:45:20]ADMIN: ErikHanson/(ErikHanson) toggled AI allowed.
+[05:45:21]ADMIN: ErikHanson/(ErikHanson) toggled AI allowed.
+[05:46:26]ACCESS: Logout: ErikHanson/(ErikHanson)
+[05:46:30]ACCESS: Login: ErikHanson/(ErikHanson) from 127.0.0.1-2853358941 || BYOND v507
+[05:46:36]SAY: Syndicat/ : I am a real cat.
+[05:46:38]ACCESS: Logout: *no key*/(ErikHanson)
+[05:46:38]ACCESS: Login: ErikHanson/(Captain Floella Rathen) from 127.0.0.1-2853358941 || BYOND v507
+[05:46:38]SAY: Arrivals Announcer/ : Captain Floella Rathen has arrived on the station.
+[05:48:53]ADMIN: ErikHanson/(Captain Floella Rathen) has created a vox announcement: aaaaa
+[05:48:55]ADMIN: ErikHanson/(Captain Floella Rathen) has created a vox announcement: sex
+[05:48:57]ADMIN: ErikHanson/(Captain Floella Rathen) has created a vox announcement: ass
+[05:48:59]ADMIN: ErikHanson/(Captain Floella Rathen) has created a vox announcement: ass
+[05:49:01]ADMIN: ErikHanson/(Captain Floella Rathen) has created a vox announcement: ass
+[05:49:45]ADMIN: ErikHanson/(Captain Floella Rathen) has created a command report: ass
+
+[05:49:49]ADMIN: AntagNarrate: ErikHanson/(Captain Floella Rathen) : ass
+[05:49:51]ADMIN: DirectNarrate: ErikHanson/(Captain Floella Rathen) to (Captain Floella Rathen/ErikHanson): ass
+[05:49:56]GAME: Explosion with size (1, 2, 3, 0) in area Port Primary Hallway 
+[05:49:57]ACCESS: Logout: *no key*/(Captain Floella Rathen)
+[05:49:57]ACCESS: Login: ErikHanson/(Captain Floella Rathen) from 127.0.0.1-2853358941 || BYOND v507
+[05:50:14]ADMIN: ErikHanson used Spawn Space Ninja.
+[05:50:31]SAY: Syndicat/ : I do cat things.
+[05:50:44]ACCESS: Logout: *no key*/(Captain Floella Rathen)
+[05:50:44]ACCESS: Login: erikhanson/(Deep Midnight) from 127.0.0.1-2853358941 || BYOND v507
+[05:51:02]ADMIN: ErikHanson/(Deep Midnight) has robotized erikhanson.
+[05:51:03]ACCESS: Logout: *no key*/(Deep Midnight)
+[05:51:03]ACCESS: Login: erikhanson/(Default Cyborg-527) from 127.0.0.1-2853358941 || BYOND v507
+[05:51:20]ADMIN: erikhanson/(Default Cyborg-527) jumped to *null*
+[05:51:42]ADMIN: erikhanson/(Default Cyborg-527) deleted Default Cyborg-527 at (53,100,1)
+[05:51:42]ACCESS: Logout: *no key*/(Default Cyborg-527)
+[05:51:42]ACCESS: Login: erikhanson/(Deep Midnight) from 127.0.0.1-2853358941 || BYOND v507
+[05:51:46]ADMIN: erikhanson/(Deep Midnight) deleted Man-Machine Interface: Deep Midnight at (53,100,1)
+[05:51:46]ACCESS: Logout: *no key*/(Deep Midnight)
+[05:51:46]ACCESS: Login: erikhanson/(Deep Midnight) from 127.0.0.1-2853358941 || BYOND v507
+[05:52:11]ADMIN: erikhanson/(Deep Midnight) has used rudimentary transformation on erikhanson/(Deep Midnight). Transforming to human; deletemob=1
+[05:52:11]ACCESS: Logout: *no key*/(Deep Midnight)
+[05:52:11]ACCESS: Login: erikhanson/(Deep Midnight) from 127.0.0.1-2853358941 || BYOND v507
+[05:52:15]ACCESS: Logout: *no key*/(Deep Midnight)
+[05:52:15]ACCESS: Login: erikhanson/(Deep Midnight) from 127.0.0.1-2853358941 || BYOND v507
+[05:52:20]ADMIN: erikhanson/(Deep Midnight) changed the equipment of erikhanson/(Deep Midnight) to soviet admiral.
+[05:59:01]SAY: German/ : eh?
+[05:59:48]SAY: Syndicat/ : I do cat things.
+[06:09:15]SAY: German/ : eh?
+[06:15:40]SAY: Syndicat/ : I do cat things.
+[06:24:43]SAY: Syndicat/ : I do cat things.
+[06:41:03]SAY: Syndicat/ : I am a real cat.
+[06:49:36]ACCESS: Logout: erikhanson/(Deep Midnight)

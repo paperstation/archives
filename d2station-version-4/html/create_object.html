@@ -1,0 +1,107 @@
+<html>
+
+<head>
+  <title>Create Object</title>
+  <style type="text/css">
+body{
+font-family: Tahoma;
+font-size: 12px;
+}
+  
+input, radio, messagebox{
+background: #FFF !important;
+border:1 px solid #555 !important;
+}
+  </style>
+
+<body>
+<b>Spawn Panel</b>
+	<form name="spawner" action="byond://?src=/* ref src */" method="get">
+		<input type="hidden" name="src" value="/* ref src */">
+		
+		<input type="text" name="filter" value="" onkeydown="searchKeyPress(event)" style="width:350px"><br>
+		<input type="text" name="offset" value="x,y,z" style="width:180px">
+		
+		Absolute <input type="radio" name="offset_type" value="absolute">
+		Relative <input type="radio" name="offset_type" value="relative" checked="checked"><br>
+		
+		<input type="text" name="object_count" value="1" style="width:330px"> <input type="submit" value="spawn"><br><br>
+		
+		<select name="object_list" id="object_list" size="20" multiple style="width:100%"></select><br>
+	</form>
+	
+	<script language="javascript" type="text/javascript">
+		var old_search = "";
+		var object_list = document.spawner.object_list;
+		var object_paths = null /* object types */;
+		var objects = object_paths == null ? new Array() : object_paths.split(";");
+		var search_key_count = 0
+		
+		document.spawner.filter.focus();
+		
+		function populateList(from_list)
+		{
+			object_list.options.length = 0;
+			
+			var i;
+			for (i in from_list)
+			{
+				var new_option = document.createElement("option");
+				new_option.value = from_list[i];
+				new_option.text = from_list[i];
+				object_list.options.add(new_option);
+			}
+		}
+		
+		function updateSearch()
+		{
+			if (old_search == document.spawner.filter.value)
+			{
+				return;
+			}
+			
+			old_search = document.spawner.filter.value;
+			
+			if (old_search == "")
+			{
+				object_list.options.length = 0;
+				return;
+			}
+			
+			var filtered = new Array();
+			var i;
+			for (i in objects)
+			{
+				if(objects[i].search(old_search) < 0)
+				{
+					continue;
+				}
+				
+				filtered.push(objects[i]);
+			}
+			populateList(filtered);
+		}
+		
+		function searchKeyPress(event)
+		{
+			if ((event.keyCode == 13 || event.which == 13) && object_list.options.length)
+			{
+				object_list.focus();
+				object_list.options[0].selected = 'true';
+			}
+			else
+			{
+				search_key_count++;
+				setTimeout("checkStopTyping("+search_key_count+")", 500);
+			}
+		}
+		
+		function checkStopTyping(count)
+		{
+			if (search_key_count == count)
+				updateSearch();
+		}
+	</script>
+</body>
+
+</html>

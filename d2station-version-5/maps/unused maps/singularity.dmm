@@ -1,0 +1,174 @@
+"aa" = (/turf/space,/area)
+"ab" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/obj/decal/cleanable/dirt,/obj/decal/cleanable/dirt,/obj/machinery/light/small{dir = 1},/turf/simulated/floor,/area/engine/engine_hallway)
+"ac" = (/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/obj/machinery/atmospherics/pipe/simple{dir = 9; icon_state = "intact-f"; layer = 3},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"ad" = (/obj/machinery/atmospherics/pipe/simple{dir = 6; icon_state = "intact-f"; initialize_directions = 6; layer = 3},/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/obj/decal/cleanable/dirt,/obj/machinery/light/small{dir = 4},/turf/simulated/floor,/area/engine/engine_hallway)
+"ae" = (/obj/machinery/atmospherics/pipe/simple{dir = 9; icon_state = "intact-f"; initialize_directions = 9; layer = 3},/turf/simulated/wall/r_wall,/area/engine/engine_hallway)
+"af" = (/obj/machinery/door/poddoor{density = 0; icon_state = "pdoor1"; id = "Singularity"; name = "Window Shutters"; opacity = 0},/obj/grille,/obj/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/window/reinforced{tag = "icon-rwindow (WEST)"; icon_state = "rwindow"; dir = 8},/obj/window/reinforced,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"ag" = (/obj/machinery/door/poddoor{density = 0; icon_state = "pdoor1"; id = "Singularity"; name = "Window Shutters"; opacity = 0},/obj/grille,/obj/window/reinforced,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"ah" = (/obj/machinery/door/poddoor{density = 0; icon_state = "pdoor1"; id = "Singularity"; name = "Window Shutters"; opacity = 0},/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/grille,/obj/window/reinforced,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"ai" = (/obj/machinery/door/poddoor{density = 0; icon_state = "pdoor1"; id = "Singularity"; name = "Window Shutters"; opacity = 0},/obj/grille,/obj/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/window/reinforced,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"aj" = (/turf/simulated/wall/r_wall,/area/engine/engine_hallway)
+"ak" = (/turf/simulated/floor,/area/engine/engine_hallway)
+"al" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/disposalpipe/segment{tag = "icon-pipe-s (NORTH)"; icon_state = "pipe-s"; dir = 1},/obj/machinery/atmospherics/pipe/simple{dir = 5; icon_state = "intact-f"; initialize_directions = 5; layer = 3},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"am" = (/obj/machinery/atmospherics/pipe/simple,/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/decal/cleanable/dirt,/turf/simulated/floor{icon_state = "caution_east"; tag = "icon-caution_east"},/area/engine/engine_hallway)
+"an" = (/obj/decal/cleanable/dirt,/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; initialize_directions = 12; layer = 3},/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/turf/simulated/floor{tag = "icon-corner_west"; icon_state = "corner_west"},/area/engine/engine_hallway)
+"ao" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; initialize_directions = 12; layer = 3},/obj/decal/cleanable/dirt,/turf/simulated/floor{tag = "icon-corner_east"; icon_state = "corner_east"},/area/engine/engine_hallway)
+"ap" = (/obj/machinery/atmospherics/pipe/simple{dir = 9; icon_state = "intact-f"; layer = 3},/turf/simulated/wall/r_wall,/area/engine/engine_hallway)
+"aq" = (/obj/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"ar" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/disposalpipe/segment{tag = "icon-pipe-s (NORTH)"; icon_state = "pipe-s"; dir = 1},/turf/simulated/floor{tag = "icon-corner_west"; icon_state = "corner_west"},/area/engine/engine_hallway)
+"as" = (/obj/machinery/atmospherics/pipe/simple,/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/light/small{dir = 4},/turf/simulated/floor{tag = "icon-corner_east"; icon_state = "corner_east"},/area/engine/engine_hallway)
+"at" = (/obj/decal/cleanable/dirt,/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/simulated/floor,/area/engine/engine_hallway)
+"au" = (/obj/decal/cleanable/dirt,/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/turf/simulated/floor,/area/engine/engine_hallway)
+"av" = (/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"aw" = (/obj/item/clothing/head/helmet/hardhat,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"ax" = (/obj/item/weapon/weldingtool,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"ay" = (/obj/item/weapon/caution{desc = "Caution! Construction Zone!"; name = "caution sign"},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"az" = (/mob/living/carbon/monkey/rat/white,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"aA" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/disposalpipe/segment{tag = "icon-pipe-s (NORTH)"; icon_state = "pipe-s"; dir = 1},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"aB" = (/obj/machinery/atmospherics/pipe/simple{dir = 5; icon_state = "intact-f"; initialize_directions = 5; layer = 3},/obj/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"aC" = (/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"aD" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"aE" = (/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"aF" = (/obj/machinery/emitter{anchored = 0; dir = 4},/obj/cable{d2 = 8; icon_state = "0-8"},/obj/cable,/obj/decal/cleanable/dirt,/turf/simulated/floor{icon_state = "bot"},/area/engine/engine_hallway)
+"aG" = (/obj/grille,/obj/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/window/reinforced{tag = "icon-rwindow (WEST)"; icon_state = "rwindow"; dir = 8},/obj/window/reinforced,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"aH" = (/obj/window{icon_state = "rwindow"; dir = 8; reinf = 1},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"aI" = (/obj/item/weapon/screwdriver{pixel_y = 16},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"aJ" = (/obj/machinery/field_generator{anchored = 0},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"aK" = (/obj/item/weapon/storage/toolbox/emergency,/turf/simulated/floor/grid,/area/engine/engine_hallway)
+"aL" = (/turf/simulated/floor/grid,/area/engine/engine_hallway)
+"aM" = (/obj/item/device/flashlight,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"aN" = (/obj/window{icon_state = "rwindow"; dir = 4; invisibility = 0; reinf = 1},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"aO" = (/obj/machinery/emitter{anchored = 0; dir = 8},/obj/cable,/obj/cable{icon_state = "0-4"; d2 = 4},/obj/disposalpipe/segment{tag = "icon-pipe-s (NORTH)"; icon_state = "pipe-s"; dir = 1},/obj/decal/cleanable/dirt,/turf/simulated/floor{icon_state = "bot"},/area/engine/engine_hallway)
+"aP" = (/obj/cable{icon_state = "2-8"; d1 = 2; d2 = 8},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"aQ" = (/obj/decal/cleanable/dirt,/turf/simulated/wall/r_wall,/area/engine/engine_hallway)
+"aR" = (/obj/item/device/radio,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"aS" = (/obj/item/weapon/cigbutt,/turf/simulated/floor/engine,/area/engine/engine_hallway)
+"aT" = (/turf/simulated/floor/engine,/area/engine/engine_hallway)
+"aU" = (/obj/disposalpipe/segment{tag = "icon-pipe-s (NORTH)"; icon_state = "pipe-s"; dir = 1},/obj/decal/cleanable/dirt,/turf/simulated/wall/r_wall,/area/engine/engine_hallway)
+"aV" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/obj/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/turf/simulated/floor{icon_state = "caution_east"; tag = "icon-caution_east"},/area/engine/engine_hallway)
+"aW" = (/obj/disposalpipe/segment{tag = "icon-pipe-s (NORTH)"; icon_state = "pipe-s"; dir = 1},/turf/simulated/wall/r_wall,/area/engine/engine_hallway)
+"aX" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/cable{icon_state = "2-8"; d1 = 2; d2 = 8},/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/obj/machinery/camera{c_tag = "Engine East"; dir = 4; network = "SS13"},/turf/simulated/floor{tag = "icon-caution_west"; icon_state = "caution_west"},/area/engine/engine_hallway)
+"aY" = (/obj/decal/cleanable/dirt,/obj/cable{icon_state = "2-8"; d1 = 2; d2 = 8},/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/turf/simulated/floor{icon_state = "caution_east"; tag = "icon-caution_east"},/area/engine/engine_hallway)
+"aZ" = (/obj/machinery/door/airlock/engineering{name = "Singularity Access"; req_access_txt = "10"},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"ba" = (/obj/machinery/the_singularitygen,/turf/simulated/floor/engine,/area/engine/engine_hallway)
+"bb" = (/obj/machinery/door/airlock/engineering{name = "Singularity Access"; req_access_txt = "10"},/obj/disposalpipe/segment{tag = "icon-pipe-s (NORTH)"; icon_state = "pipe-s"; dir = 1},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"bc" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/obj/decal/cleanable/dirt,/turf/simulated/floor{tag = "icon-caution_west"; icon_state = "caution_west"},/area/engine/engine_hallway)
+"bd" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/camera{c_tag = "Engine West"; dir = 8; network = "SS13"},/turf/simulated/floor{icon_state = "caution_east"; tag = "icon-caution_east"},/area/engine/engine_hallway)
+"be" = (/obj/item/weapon/wrench,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"bf" = (/obj/item/device/flashlight,/turf/simulated/floor/engine,/area/engine/engine_hallway)
+"bg" = (/obj/item/weapon/cigbutt,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"bh" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/decal/cleanable/dirt,/turf/simulated/floor{tag = "icon-caution_west"; icon_state = "caution_west"},/area/engine/engine_hallway)
+"bi" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/turf/simulated/floor,/area/engine/engine_hallway)
+"bj" = (/obj/item/weapon/storage/toolbox/mechanical,/turf/simulated/floor/grid,/area/engine/engine_hallway)
+"bk" = (/obj/item/clothing/mask/cigarette,/obj/item/weapon/weldingtool,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"bl" = (/obj/cable,/obj/cable{icon_state = "0-4"; d2 = 4},/obj/cable{icon_state = "0-2"; d2 = 2},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"bm" = (/obj/machinery/emitter{anchored = 0; dir = 4},/obj/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor{icon_state = "bot"},/area/engine/engine_hallway)
+"bn" = (/obj/item/device/analyzer,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"bo" = (/obj/machinery/emitter{anchored = 0; dir = 8},/obj/cable{icon_state = "0-4"; d2 = 4},/obj/disposalpipe/segment{tag = "icon-pipe-s (NORTH)"; icon_state = "pipe-s"; dir = 1},/turf/simulated/floor{icon_state = "bot"},/area/engine/engine_hallway)
+"bp" = (/obj/cable{icon_state = "0-2"; d2 = 2},/obj/cable,/obj/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor,/area/engine/engine_hallway)
+"bq" = (/obj/item/device/multitool,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"br" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/decal/cleanable/dirt,/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"bs" = (/obj/window{icon_state = "rwindow"; reinf = 1},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"bt" = (/obj/item/weapon/cigbutt,/obj/window{icon_state = "rwindow"; reinf = 1},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"bu" = (/obj/window{icon_state = "rwindow"; reinf = 1},/obj/item/weapon/cigbutt,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"bv" = (/obj/item/clothing/head/helmet/welding,/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"bw" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/light/small{dir = 4},/turf/simulated/floor,/area/engine/engine_hallway)
+"bx" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/turf/simulated/wall/r_wall,/area/engine/engine_hallway)
+"by" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; initialize_directions = 12; layer = 3},/obj/grille,/obj/window/reinforced,/obj/window/reinforced{tag = "icon-rwindow (WEST)"; icon_state = "rwindow"; dir = 8},/obj/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"bz" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; initialize_directions = 12; layer = 3},/obj/grille,/obj/window/reinforced,/obj/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"bA" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; initialize_directions = 12; layer = 3},/obj/grille,/obj/window/reinforced,/obj/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"bB" = (/obj/machinery/atmospherics/pipe/manifold{dir = 1; initialize_directions = 14},/obj/disposalpipe/segment{tag = "icon-pipe-s (NORTH)"; icon_state = "pipe-s"; dir = 1},/turf/simulated/wall/r_wall,/area/engine/engine_hallway)
+"bC" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/light/small{dir = 8},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"bD" = (/obj/secure_closet/engineering_welding,/turf/simulated/floor,/area/engine/engine_hallway)
+"bE" = (/obj/secure_closet/engineering_personal,/turf/simulated/floor{dir = 4; icon_state = "yellow"; tag = "icon-yellow (EAST)"},/area/engine/engine_hallway)
+"bF" = (/obj/machinery/atmospherics/pipe/simple{dir = 6; icon_state = "intact-f"; layer = 3},/obj/machinery/power/apc{dir = 8; name = "Engine Control APC"; pixel_x = -26; pixel_y = 0},/obj/cable{icon_state = "0-4"; d2 = 4},/obj/cable{icon_state = "0-2"; d2 = 2},/obj/decal/cleanable/dirt,/turf/simulated/floor{dir = 9; icon_state = "yellow"; tag = "icon-yellow (NORTHWEST)"},/area/engine/engine_hallway)
+"bG" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/cable{d2 = 8; icon_state = "0-8"},/obj/cable{icon_state = "0-4"; d2 = 4},/obj/decal/cleanable/dirt,/turf/simulated/floor{dir = 1; icon_state = "yellow"; tag = "icon-yellow(NORTH)"},/area/engine/engine_hallway)
+"bH" = (/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/item/clothing/suit/fire,/obj/decal/cleanable/dirt,/turf/simulated/floor{dir = 1; icon_state = "yellow"; tag = "icon-yellow(NORTH)"},/area/engine/engine_hallway)
+"bI" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/machinery/dispenser,/obj/cable{d2 = 8; icon_state = "0-8"},/obj/cable{icon_state = "0-4"; d2 = 4},/turf/simulated/floor{dir = 1; icon_state = "yellow"; tag = "icon-yellow(NORTH)"},/area/engine/engine_hallway)
+"bJ" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/cable{icon_state = "0-4"; d2 = 4},/obj/cable{d2 = 8; icon_state = "0-8"},/obj/machinery/power/monitor,/turf/simulated/floor{dir = 1; icon_state = "yellow"; tag = "icon-yellow(NORTH)"},/area/engine/engine_hallway)
+"bK" = (/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/item/weapon/extinguisher,/turf/simulated/floor{dir = 1; icon_state = "yellow"; tag = "icon-yellow(NORTH)"},/area/engine/engine_hallway)
+"bL" = (/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/item/clothing/suit/fire,/turf/simulated/floor{dir = 1; icon_state = "yellow"; tag = "icon-yellow(NORTH)"},/area/engine/engine_hallway)
+"bM" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/cable{icon_state = "0-4"; d2 = 4},/obj/cable{d2 = 8; icon_state = "0-8"},/obj/decal/cleanable/dirt,/turf/simulated/floor{dir = 1; icon_state = "yellow"; tag = "icon-yellow(NORTH)"},/area/engine/engine_hallway)
+"bN" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/cable{icon_state = "2-8"; d1 = 2; d2 = 8},/obj/item/device/radio/intercom{dir = 4; name = "Station Intercom (General)"; pixel_x = 31},/obj/decal/cleanable/dirt,/turf/simulated/floor{dir = 5; icon_state = "yellow"; tag = "icon-yellow (NORTHEAST)"},/area/engine/engine_hallway)
+"bO" = (/obj/machinery/atmospherics/pipe/manifold{dir = 1},/turf/simulated/wall/r_wall,/area/engine/engine_hallway)
+"bP" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; initialize_directions = 12; layer = 3},/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/obj/secure_closet/engineering_electrical,/turf/simulated/floor{dir = 8; icon_state = "yellow"; tag = "icon-yellow (WEST)"},/area/engine/engine_hallway)
+"bQ" = (/obj/machinery/atmospherics/pipe/simple,/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; initialize_directions = 12; layer = 3},/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/disposalpipe/segment{tag = "icon-pipe-s (NORTH)"; icon_state = "pipe-s"; dir = 1},/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/obj/secure_closet/engineering_personal,/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"bR" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"bS" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"bT" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; initialize_directions = 12; layer = 3},/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"bU" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; initialize_directions = 12; layer = 3},/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/turf/simulated/floor{dir = 4; icon_state = "yellow"; tag = "icon-yellow (EAST)"},/area/engine/engine_hallway)
+"bV" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; initialize_directions = 12; layer = 3},/obj/machinery/door/airlock/engineering{name = "Engineering Access"; req_access_txt = "10"},/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/turf/simulated/floor,/area/engine/engine_hallway)
+"bW" = (/obj/machinery/atmospherics/pipe/manifold,/obj/cable{d2 = 8; icon_state = "0-8"},/obj/cable,/obj/cable{icon_state = "0-2"; d2 = 2},/obj/decal/cleanable/dirt,/obj/decal/cleanable/dirt,/turf/simulated/floor{dir = 8; icon_state = "yellow"; tag = "icon-yellow (WEST)"},/area/engine/engine_hallway)
+"bX" = (/obj/machinery/atmospherics/unary/vent_scrubber{dir = 8; icon_state = "off"; on = 1; scrub_N2O = 1; scrub_Toxins = 1; tag = "icon-off (WEST)"},/obj/decal/cleanable/dirt,/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"bY" = (/obj/item/weapon/cigbutt,/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"bZ" = (/obj/machinery/atmospherics/unary/vent_pump{dir = 4; on = 1},/obj/decal/cleanable/dirt,/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"ca" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; initialize_directions = 12; layer = 3},/obj/cable{icon_state = "0-4"; d2 = 4},/obj/cable,/obj/cable{icon_state = "0-2"; d2 = 2},/obj/decal/cleanable/dirt,/turf/simulated/floor{dir = 4; icon_state = "yellow"; tag = "icon-yellow (EAST)"},/area/engine/engine_hallway)
+"cb" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; initialize_directions = 12; layer = 3},/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/simple,/obj/machinery/door/airlock/engineering{name = "Engineering Access"; req_access_txt = "10"},/turf/simulated/floor,/area/engine/engine_hallway)
+"cc" = (/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/obj/machinery/atmospherics/pipe/manifold{dir = 1; initialize_directions = 14},/turf/simulated/floor{dir = 8; icon_state = "yellow"; tag = "icon-yellow (WEST)"},/area/engine/engine_hallway)
+"cd" = (/obj/machinery/atmospherics/pipe/simple{dir = 9; icon_state = "intact-f"; layer = 3},/obj/disposalpipe/segment{tag = "icon-pipe-s (NORTH)"; icon_state = "pipe-s"; dir = 1},/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"ce" = (/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/simulated/wall/r_wall,/area/engine/engine_hallway)
+"cf" = (/obj/machinery/door/airlock/engineering{name = "Smes Access"; req_access_txt = "10"},/turf/simulated/floor,/area/engine/engine_hallway)
+"cg" = (/obj/cable{icon_state = "0-4"; d2 = 4},/obj/cable,/obj/decal/cleanable/dirt,/turf/simulated/floor{dir = 8; icon_state = "yellow"; tag = "icon-yellow (WEST)"},/area/engine/engine_hallway)
+"ch" = (/obj/cable{d2 = 8; icon_state = "0-8"},/obj/cable{icon_state = "0-4"; d2 = 4},/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/engine/engine_hallway)
+"ci" = (/obj/machinery/light,/obj/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor,/area/engine/engine_hallway)
+"cj" = (/obj/machinery/camera{c_tag = "Engineering South-East"; dir = 1},/turf/simulated/floor,/area/engine/engine_hallway)
+"ck" = (/obj/machinery/autolathe,/turf/simulated/floor,/area/engine/engine_hallway)
+"cl" = (/obj/machinery/light,/obj/cable{icon_state = "0-4"; d2 = 4},/turf/simulated/floor,/area/engine/engine_hallway)
+"cm" = (/obj/cable{icon_state = "0-4"; d2 = 4},/obj/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor,/area/engine/engine_hallway)
+"cn" = (/obj/cable{d2 = 8; icon_state = "0-8"},/obj/cable,/turf/simulated/floor{dir = 4; icon_state = "yellow"; tag = "icon-yellow (EAST)"},/area/engine/engine_hallway)
+"co" = (/obj/machinery/atmospherics/pipe/simple,/turf/simulated/wall/r_wall,/area/engine/engine_hallway)
+"cp" = (/obj/machinery/atmospherics/pipe/simple,/obj/machinery/door/airlock/maintenance{req_access_txt = "12"},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"cq" = (/obj/disposalpipe/segment{tag = "icon-pipe-s (NORTH)"; icon_state = "pipe-s"; dir = 1},/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/turf/simulated/wall/r_wall,/area/engine/engine_hallway)
+"cr" = (/obj/secure_closet/engineering_electrical,/turf/simulated/floor,/area/engine/engine_hallway)
+"cs" = (/obj/decal/cleanable/dirt,/turf/simulated/floor{tag = "icon-centre"; icon_state = "centre"},/area/engine/engine_hallway)
+"ct" = (/obj/machinery/atmospherics/pipe/simple{dir = 6; icon_state = "intact-f"; layer = 3},/obj/secure_closet/engineering_welding,/turf/simulated/floor,/area/engine/engine_hallway)
+"cu" = (/obj/grille,/obj/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/window/reinforced,/obj/window/reinforced{tag = "icon-rwindow (WEST)"; icon_state = "rwindow"; dir = 8},/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"cv" = (/obj/grille,/obj/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/window/reinforced,/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"cw" = (/obj/grille,/obj/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/window/reinforced,/obj/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/turf/simulated/floor/plating,/area/engine/engine_hallway)
+"cx" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/machinery/atmospherics/pipe/simple,/turf/simulated/wall/r_wall,/area/maintenance/asmaint)
+"cy" = (/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/obj/machinery/atmospherics/pipe/simple,/obj/decal/cleanable/dirt,/turf/simulated/floor,/area/maintenance/asmaint)
+"cz" = (/obj/disposalpipe/segment{dir = 1; icon_state = "pipe-c"},/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/decal/cleanable/dirt,/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/turf/simulated/floor,/area/maintenance/asmaint)
+"cA" = (/obj/disposalpipe/segment{dir = 4},/obj/machinery/atmospherics/pipe/simple{dir = 4; icon_state = "intact-f"; layer = 3},/turf/simulated/wall/r_wall,/area/maintenance/asmaint)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacadaeafagagagahagagagaiajakalamaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaanaoapajaqaqaqaqaqaqaqaqaqajajarasaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaatauajavawaxavavayavavazavavajaAaBaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaCaDajavavavavavavavavavavavajaAaCaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaEaFaGaHaIaJaKaLaLaLaLaJaMaNaGaOaPaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaDaQajavaRaLaSaTaTaTaTaLavavajaUaDaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaVajavavavaLaTaTaTaTaTaLavavavaWaXaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaYaZavavayaLaTaTbaaTaTaLayavavbbbcaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaabdajavavbeaLbfaTaTaTaTaLavbgavaWbhaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaabiajajavavaLaTaTaTaTaTbjbkavajaWbiaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaablbmaGaHavaJaLaLaLaLaLaJbnaNaGbobpaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaDajajavavavavavayavavbgavbqajaWbraaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaDajbqavbsbtbsbsbubsbsbsbsavbvaWaDaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaabwbxbxbxbybzbzbzbzbzbzbzbAbxbxbBbCaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaDbDbEajbFbGbHbIbJbKbLbMbNbObPbQbRaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaabSbTbUbVbWbXbYaCaCakaCbZcacbcccdaCaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaacecfajajcgchciakcjckclcmcncocpcqajaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaacrcsctbxcucvcvcvcvcvcvcvcwcxcyczcAaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

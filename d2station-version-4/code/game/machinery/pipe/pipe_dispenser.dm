@@ -1,0 +1,148 @@
+/obj/machinery/pipedispenser
+	name = "Pipe Dispenser"
+	icon = 'stationobjs.dmi'
+	icon_state = "pipe_d"
+	density = 1
+	anchored = 1
+	var/unwrenched = 0
+
+/obj/machinery/pipedispenser/attack_paw(user as mob)
+	return src.attack_hand(user)
+
+/obj/machinery/pipedispenser/attack_hand(user as mob)
+	if(..())
+		return
+	var/dat = {"
+<b>Regular pipes:</b><BR>
+<A href='?src=\ref[src];make=0;dir=1'>Pipe</A><BR>
+<A href='?src=\ref[src];make=1;dir=5'>Bent Pipe</A><BR>
+<A href='?src=\ref[src];make=5;dir=1'>Manifold</A><BR>
+<A href='?src=\ref[src];make=8;dir=1'>Manual Valve</A><BR>
+<b>Devices:</b><BR>
+<A href='?src=\ref[src];make=4;dir=1'>Connector</A><BR>
+<A href='?src=\ref[src];make=7;dir=1'>Unary Vent</A><BR>
+<A href='?src=\ref[src];make=9;dir=1'>Gas Pump</A><BR>
+<A href='?src=\ref[src];make=10;dir=1'>Scrubber</A><BR>
+<A href='?src=\ref[src];makemeter=1'>Meter</A><BR>
+<b>Heat exchange:</b><BR>
+<A href='?src=\ref[src];make=2;dir=1'>Pipe</A><BR>
+<A href='?src=\ref[src];make=3;dir=5'>Bent Pipe</A><BR>
+<A href='?src=\ref[src];make=6;dir=1'>Junction</A><BR>
+<b>Insulated pipes:</b><BR>
+<A href='?src=\ref[src];make=11;dir=1'>Pipe</A><BR>
+<A href='?src=\ref[src];make=12;dir=5'>Bent Pipe</A><BR>
+"}
+
+
+	user << browse("<HEAD><TITLE>[src]</TITLE></HEAD><TT>[dat]</TT>", "window=pipedispenser")
+	onclose(user, "pipedispenser")
+	return
+
+/obj/machinery/pipedispenser/Topic(href, href_list)
+	if(..())
+		return
+	if(unwrenched)
+		usr << browse(null, "window=pipedispenser")
+		return
+	usr.machine = src
+	src.add_fingerprint(usr)
+	if(href_list["make"])
+		var/p_type = text2num(href_list["make"])
+		var/p_dir = text2num(href_list["dir"])
+		var/obj/item/pipe/P = new (/*usr.loc*/ src.loc, pipe_type=p_type, dir=p_dir)
+		P.update()
+	if(href_list["makemeter"])
+		new /obj/item/pipe_meter(/*usr.loc*/ src.loc)
+
+/*	for(var/mob/M in viewers(1, src))
+		if ((M.client && M.machine == src))
+			src.attack_hand(M)*/
+	return
+
+/obj/machinery/pipedispenser/attackby(var/obj/item/W as obj, var/mob/user as mob)
+	if (istype(W, /obj/item/pipe) || istype(W, /obj/item/pipe_meter))
+		usr << "\blue You put [W] back to [src]."
+		del(W)
+		return
+	else if (istype(W, /obj/item/weapon/wrench))
+		if (unwrenched==0)
+			playsound(src.loc, 'Ratchet.ogg', 50, 1)
+			user << "\blue You begin to unfasten \the [src] from the floor..."
+			if (do_after(user, 40))
+				user.visible_message( \
+					"[user] unfastens \the [src].", \
+					"\blue You have unfastened \the [src]. Now it can be pulled somewhere else.", \
+					"You hear ratchet.")
+				src.anchored = 0
+				src.stat |= MAINT
+				src.unwrenched = 1
+				if (usr.machine==src)
+					usr << browse(null, "window=pipedispenser")
+		else /*if (unwrenched==1)*/
+			playsound(src.loc, 'Ratchet.ogg', 50, 1)
+			user << "\blue You begin to fasten \the [src] to the floor..."
+			if (do_after(user, 20))
+				user.visible_message( \
+					"[user] fastens \the [src].", \
+					"\blue You have fastened \the [src]. Now it can dispense pipes.", \
+					"You hear ratchet.")
+				src.anchored = 1
+				src.stat &= ~MAINT
+				src.unwrenched = 0
+				power_change()
+	else
+		return ..()
+
+
+/obj/machinery/pipedispenser/disposal
+	name = "Disposal Pipe Dispenser"
+	icon = 'stationobjs.dmi'
+	icon_state = "pipe_d"
+	density = 1
+	anchored = 1.0
+
+
+/obj/machinery/pipedispenser/disposal/attack_hand(user as mob)
+	if(..())
+		return
+
+	var/dat = {"<b>Disposal Pipes</b><br><br>
+<A href='?src=\ref[src];dmake=0'>Pipe</A><BR>
+<A href='?src=\ref[src];dmake=1'>Bent Pipe</A><BR>
+<A href='?src=\ref[src];dmake=2'>Junction</A><BR>
+<A href='?src=\ref[src];dmake=3'>Y-Junction</A><BR>
+<A href='?src=\ref[src];dmake=4'>Trunk</A><BR>
+"}
+
+	user << browse("<HEAD><TITLE>[src]</TITLE></HEAD><TT>[dat]</TT>", "window=pipedispenser")
+	return
+
+// 0=straight, 1=bent, 2=junction-j1, 3=junction-j2, 4=junction-y, 5=trunk
+
+
+/obj/machinery/pipedispenser/disposal/Topic(href, href_list)
+	if(..())
+		return
+	usr.machine = src
+	src.add_fingerprint(usr)
+	if(href_list["dmake"])
+		var/p_type = text2num(href_list["dmake"])
+		var/obj/disposalconstruct/C = new (src.loc)
+		switch(p_type)
+			if(0)
+				C.ptype = 0
+			if(1)
+				C.ptype = 1
+			if(2)
+				C.ptype = 2
+			if(3)
+				C.ptype = 4
+			if(4)
+				C.ptype = 5
+
+		C.update()
+
+		usr << browse(null, "window=pipedispenser")
+		usr.machine = null
+	return
+

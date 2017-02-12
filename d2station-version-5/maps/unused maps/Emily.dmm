@@ -1,0 +1,156 @@
+"aa" = (/turf/space{icon_state = "3"},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"ab" = (/turf/space{icon_state = "4"},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"ac" = (/turf/space{icon_state = "1"},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"ad" = (/turf/space{icon_state = "2"},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"ae" = (/turf/simulated/wall{icon_state = "wall6"},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"af" = (/turf/simulated/wall{icon_state = "wall12"},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"ag" = (/turf/simulated/wall{icon_state = "wall10"},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"ah" = (/turf/simulated/wall{icon_state = "wall3"},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"ai" = (/turf/simulated/floor{unblocked_dirs = 6},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aj" = (/turf/simulated/floor{unblocked_dirs = 14},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"ak" = (/turf/simulated/floor{unblocked_dirs = 10},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"al" = (/turf/simulated/wall{icon_state = "wall3"},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"am" = (/turf/simulated/floor{unblocked_dirs = 7},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"an" = (/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"ao" = (/turf/simulated/floor{unblocked_dirs = 11},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"ap" = (/turf/spaceship/filler{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aq" = (/obj/spaceship/testship,/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"ar" = (/turf/simulated/floor{unblocked_dirs = 5},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"as" = (/turf/simulated/floor{unblocked_dirs = 13},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"at" = (/turf/simulated/wall{icon_state = "wall6"},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"au" = (/turf/simulated/wall{icon_state = "wall13"},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"av" = (/turf/simulated/wall{icon_state = "wall12"},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aw" = (/turf/simulated/wall{last_bumped = 448.5; icon_state = "wall8"},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"ax" = (/turf/simulated/wall{icon_state = "wall5"},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"ay" = (/turf/simulated/wall{icon_state = "wall10"},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"az" = (/obj/machinery/artifact{recharge = 16; origin = "eldritch"; trigger = "energy"; effecttype = "stun"; effectmode = "pulse"; aurarange = 3; process_staggering = 2; last_move = 1; move_speed = 21; l_move_time = 245982; moved_recently = 1; fingerprintslast = "Emyylii"; last_bumped = 583; ul_Extinguished = 0; icon_state = "martian-1"; dir = 1},/turf/simulated/floor{unblocked_dirs = 14},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aA" = (/obj/landmark{tag = "landmark*landmark"; invisibility = 101},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aB" = (/obj/landmark{tag = "landmark*Nuclear-Closet"; name = "Nuclear-Closet"; invisibility = 101},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aC" = (/obj/landmark/start{tag = "start*AI"; name = "AI"; invisibility = 101},/turf/simulated/floor{unblocked_dirs = 15; LightLevelRed = 2; LightLevelGreen = 2; LightLevelBlue = 2},/area{uid = 1; LightLevelRed = 2; LightLevelGreen = 2; LightLevelBlue = 2; tag = "/area:UL2_2_2"; icon = 'alert.dmi'})
+"aD" = (/turf/simulated/floor{unblocked_dirs = 15; LightLevelRed = 2; LightLevelGreen = 2; LightLevelBlue = 2},/area{uid = 1; LightLevelRed = 2; LightLevelGreen = 2; LightLevelBlue = 2; tag = "/area:UL2_2_2"; icon = 'alert.dmi'})
+"aE" = (/obj/machinery/artifact{recharge = 19; origin = "martian"; trigger = "force"; effecttype = "stun"; effectmode = "pulse"; aurarange = 11; process_staggering = 1; last_move = 8; move_speed = 3; l_move_time = 246035; moved_recently = 1; fingerprintslast = "Emyylii"; last_bumped = 636; ul_Extinguished = 0; icon_state = "martian-1"; dir = 8},/turf/simulated/floor{unblocked_dirs = 15; LightLevelRed = 2; LightLevelGreen = 2; LightLevelBlue = 2},/area{uid = 1; LightLevelRed = 2; LightLevelGreen = 2; LightLevelBlue = 2; tag = "/area:UL2_2_2"; icon = 'alert.dmi'})
+"aF" = (/obj/landmark{tag = "landmark*Artifact spawn"; name = "Artifact spawn"; invisibility = 101},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aG" = (/obj/landmark{tag = "landmark*Observer-Start"; name = "Observer-Start"; invisibility = 101},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aH" = (/turf/simulated/floor{unblocked_dirs = 15; LightLevelRed = 5; LightLevelGreen = 5; LightLevelBlue = 5},/area{uid = 1; LightLevelRed = 5; LightLevelGreen = 5; LightLevelBlue = 5; tag = "/area:UL5_5_5"; icon = 'alert.dmi'})
+"aI" = (/obj/machinery/artifact{recharge = 20; origin = "ancient"; trigger = "energy"; effecttype = "cellcharge"; effectmode = "pulse"; aurarange = 14; process_staggering = 2; last_move = 2; move_speed = 29; l_move_time = 245996; moved_recently = 1; last_bumped = 597; ul_Extinguished = 0},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aJ" = (/obj/machinery/artifact{recharge = 15; origin = "ancient"; trigger = "energy"; effecttype = "robohurt"; effectmode = "contact"; process_staggering = 2; last_move = 2; move_speed = 19; l_move_time = 245900; moved_recently = 1; fingerprintslast = "Emyylii"; last_bumped = 529.5; ul_Extinguished = 0; icon_state = "obelisk-2"},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aK" = (/obj/machinery/artifact{recharge = 11; origin = "precursor"; trigger = "heat"; effecttype = "forcefield"; effectmode = "contact"; process_staggering = 2; last_move = 2; move_speed = 18; l_move_time = 246023; moved_recently = 1; fingerprintslast = "Emyylii"; last_bumped = 624; ul_Extinguished = 0; icon_state = "precursor-2"},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aL" = (/turf/simulated/floor{unblocked_dirs = 15; LightLevelRed = 7; LightLevelGreen = 7; LightLevelBlue = 7},/area{uid = 1; LightLevelRed = 7; LightLevelGreen = 7; LightLevelBlue = 7; tag = "/area:UL7_7_7"; icon = 'alert.dmi'})
+"aM" = (/obj/landmark{tag = "landmark*carpspawn"; name = "carpspawn"; invisibility = 101},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aN" = (/obj/landmark{tag = "landmark*Syndicate-Bomb"; name = "Syndicate-Bomb"; invisibility = 101},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aO" = (/obj/item/clothing/glasses/sunglasses{fingerprintslast = "Emyylii"; ul_Extinguished = 0; screen_loc = "SOUTH,1"},/turf/simulated/floor{unblocked_dirs = 15; LightLevelRed = 5; LightLevelGreen = 5; LightLevelBlue = 5},/area{uid = 1; LightLevelRed = 5; LightLevelGreen = 5; LightLevelBlue = 5; tag = "/area:UL5_5_5"; icon = 'alert.dmi'})
+"aP" = (/obj/landmark{tag = "landmark*Syndicate-Gear-Closet"; name = "Syndicate-Gear-Closet"; invisibility = 101},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aQ" = (/obj/landmark{tag = "landmark*lightsout"; name = "lightsout"; invisibility = 101},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aR" = (/obj/landmark{tag = "landmark*Syndicate-Spawn"; name = "Syndicate-Spawn"; invisibility = 101},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aS" = (/obj/landmark{tag = "landmark*Nuclear-Bomb"; name = "Nuclear-Bomb"; invisibility = 101},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area:UL0_0_0"; icon = 'alert.dmi'; luminosity = 0})
+"aT" = (/obj/landmark{tag = "landmark*Teleport-Scroll"; name = "Teleport-Scroll"; invisibility = 101},/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"aU" = (/turf/simulated/floor{unblocked_dirs = 11},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"aV" = (/turf/simulated/floor{unblocked_dirs = 15},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"aW" = (/turf/simulated/floor{unblocked_dirs = 5},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"aX" = (/turf/simulated/floor{unblocked_dirs = 13},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"aY" = (/turf/simulated/floor{unblocked_dirs = 9},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"aZ" = (/turf/simulated/wall{icon_state = "wall5"},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+"ba" = (/turf/simulated/wall{icon_state = "wall9"},/area{uid = 1; tag = "/area"; icon = 'alert.dmi'; luminosity = 0})
+
+(1,1,1) = {"
+aaaaababacadaaaaadabacadaaacaaadabacabaaacabaaacadaaadaaabadacaaacababacaaaaababaaadadadaaaaabaaaaaaadabadadaaacababacacadadabacacacacaaabacabadadabadacabababaaadacadaaadadaaadacaaaaababaaaaabababadad
+abadacadadacababaaaaaaabacacacacabaaaaabacacabadaaaaaaadacabadabaaaaaaaaadabadaaacaaaaaaadadabadacabacacacabacadaaaaadaaadaaacabababadacaaabacacaaadacabacaaaaaaaaadadadababaaababadacaaabadabacacabadab
+abadabaaacababacadadaaaaadacababacadabadadabaaaaadababadababaaadadacadadadadaaacaaadaaabacacabaaacacaaacacabadabaaacabadabacaaadaaabaaaaadaaadadacadaaaaacabababacadababadabacaaacacadadadababaaadadabab
+acadabaaacabacacababadadacacabaaababaaadabadacaaaaaaacaaabadacadabacacacaaacadadadacacabaaaaaaaaadadabacacababaaababaaadaaacaaacababadabadaaaaabaaaaacabaaaaabababaaababaaaaacadacaaaaaaaaadaaaaacabaaab
+adadaaabaaadadacacababaaadaaaaacacacabaaacaaaaacacadaaadabadaaacabaaadaaababababacababadaaabadaaabacadadacacacadacabadacadadadadaaacacacacaaadabadaaababadababadaaabababacacadadaaaaabadacabadacacabaaab
+ababaaabacacacadadaaadadadabaaadaaacadabadacacabadacadacaaadadacababacababacadadadabacadaaadababadaaabacacadacadadaaabadadadadacacaaabadadaaaaabacabadaaaaacaaacacacababaaadabadaaadaaaaacabaaaaaaaaadab
+aaabababacaaadaaacaaaaaaacacacacadabacacacaaadabacacabaaabacadabacabadacabaaadacababacadacaaaaadadaaabadacadacabababacaaaaadadabadabaaaaabaaacaaaaaaadabadaaacabaaacadabacadaaacaaabacabacacaaaaabababaa
+aaababadababacadabacadaaaaaaacacacaaaaaaacabaaababacabaaaaacadabaaacadacaaaaabacaaaaaaacabacaaacabababacadadababacaaabacacacababaaadadadabadadadadadababadabaaaaacaaabaaaaacacaaaaabadababacabacabadaaab
+aaabacabaaababacaaabacadadadababadabaaaaaaaaabadadaaaaabaaacabacadabacacadaaacabadacadaaaaaaabadabacadabadadacababacadadaaababaaacaaabadadacaaadaaaaadabaaabadabadadabaaadaaacaaaaadabadadababaaacacacac
+aaaaaaaaadacacadaaacadacabacacaaaaaaacadadabacabacababadababaaadacaaadadaaaaadacacadaaadacadaaadacadabaaabacacadacaaacaaabaaadaaadadaaaaadadacaaabadabaaadaaaaabadabadacaaacabacabaaadababaaacadabadabad
+adadacacacacabaaadacacaaacaaacaaacaaacacabaaabacacabababadaaaaaaaaabacaaacababacababaaabaaabaaadabacacaaadaaabacaaadadadabadababacacacabadaaaaadabaaadadacacadacabacabababaaabaaacabadadacacacaaacaaabad
+acabadabacadacabababadacacacadacaaadacacabaaaaadacadabadabadaaaaaaabaaaaaaaaadadabacacaaababacaaadababacaaacabadadadaaaaabadabadaaababaaaaaaaaaaacababaaacadabadacacadabacadaaaaadabaaadaaabadaaadaaadad
+acadacadadababadaaabadacacadacaaadadaaadacabaaabacacaaacaaacaaadaaadaaadacabaaabaaabacadacabaaadadabaaacacadaaadabacabadaaadacadacaaadacacacacabacaaabaaababadacacacabaaacadabaaabacabacaaababaaadabadac
+acacacabaaacadaaabaaadababadadababadabacacaaaaabaaaaaaaaabadadacacacabaaabacabacacaaadacabababaaadacaaadababadacadabadacacadacacaaaaadadaaadacabadabadaaacababaaacaaacacacaaabacacabababaaabadadabaaabad
+acacaaadabaaadadaaadacaaabacabaaadacaaaaacadadadaaacabadabacacabadabaaaaaaabaaaaadacabadabaaacabacaaacaaadabaaacadabaaabacacabacacacadadaaadadacacacabacadacadacadacabaaaaadaaacaaaaacabacacabacadabaaad
+aaababaaadacacacacadacadabadadadacaaabacabaaadabacadaaadacaaaaaaaaaaacaaacaaadadaaadabacacacababacabacaaaaadaaacaaabadaaaaacaaabacacacadadacacabacabaaaaacacaaacadaaacabababaaaaabacadababacabadaaaaaaad
+aaadacabaaaaaaadadadadacaaaaadacacacaaaaacacabadaaaaacadababaaadabadadacadababaaadacacabadadaaadadadadadacababacabababacaaacabacaaaaadaaacadabacacaaabaaabababaaadadacabadadadacaaadababacababaaacaaadab
+abababaaadacadababadacacaaaaaaacadadadadabacaaabaaabacadadadadabaaacaaacaaabadadacaaacabaaabacadaaabaaabacadadaaacaaabacacabadabadaaaaabadabacabadadababadacadaaaaacacabacababababadadacadacadacacaaacac
+acacaaacaaabacaaadabacabadadadacaaabacacacacadacaaadabaaaaabacaaaaadadadaaadacabaaacadadaaabaaaaaaabaaacadaaacadaaadaaabadabaaadadacadabaaacaaaaacabadaaacaaabadaaadaaacaaabaaaaaaaaabacacaaaaacaaacacad
+aaabadadacadabadadacaaadadadacacacaaadadacadaaabacacaaacaaacabacadaaadacadadaaadacacadababadacacababacacaaaaaaabaaabacabaaabababacaaacaaaaababacabacadadaaabaaababadababaaadacaaadabadadaaabaaacaaabacaa
+adacadabababadadadaaadadadabacadacaaacacadabadabacadabadacadabacaaacabadadacadadadacaaaaabacadabacadaaadabacabaaadaaacacadadabababadaaacadadaaacabaaabadabacabacabadaaabadacadadabaaababadaaadaaabadabac
+adaaadadabadabaaaaaaadadaaaaadabacaaaaadaaabaaacadaaacabacadaaacadabaaaaacadaaacadaaaaacaaabacadacacabacaaabacadacabadababadaaaaabacacaaacaaacabacaaacaaacaaacaaacabadabaaabadacabacababadabadacaaababad
+adadacacadadadadaaabaaabadabaaabaaabacadaaacabacabacabadacadadabaaadadaaabaaaaadabacacabadaaaaaaaaaaadadadababadaaadaaaaabaaacabaaadacaaabadadadadaaadabacacacadabadadabaaababacadadababaaaaabacabadacaa
+ababaaacaaacadadabaaaaabacababacacadadaaacabaaadaaaaaaadabadababadadabacadacaaaaaaabacabadacadacabadababacabacabaaacadadadabababacaaacacaaacacabababacabadadacabacaaaaadacaaadaaababadabadadacabacadadad
+adaaacaaacababacacabadabaaaaacaaabaaacadadadaaabadacaaadaaadaaacababacacadacabadadaaacadadaaadabababaaaaaaadaaabaaadababacadabacacabababacadaaacacadacacaaadabaaadacacadaaaaacadacadacaaacadacababadaaab
+adaaadabababababacaaabadaaabacabadacabadacacaaacadadaaadacaaaaabacabaaaaabaaaaacaaaaabaaababadacadabaaaaabadacaaacabadacabacababacaaabadaaaaabaaacadaaaaacadadadaaadadaaacacaaabaaabaaaaaaabababadadabaa
+acaaadabaaaaacacacaaabadadaaaaadabacaaadababacadacacaaadaaadaaabadaaadaaabaaabacaaabaaababaaadabadabacaaabadadaaadaaadadabadacacabaaabadadadabaaaaaaaaadacacadabacabadadacadadaaadadabacadadaaababadacab
+adacabadaaacabacacadacabacadacadadaaabadadaaadacadaaababacabadadabaaaaacadacabadaaacadaaababadacaaababaaabadacabaaaaadabababababacadadacababadacadadababaaaaacacaaadadacacaaaaaaadadaaabababadacadadabac
+adaaaaacadaaacabadadabacacaaaaaaacabaaabadadaaaaacacacabaaaaadabaaabadaaaaababaaaaacacadacabadabaaaaacadaaaaaaacabaaadadaaacacaaacabababadadacadadaaadaaaaabaaaaaaabadaaadadacacabadacacababacacabadabab
+ababababacacacaaabadacaaaaabacacacaaaaaaacadababadaaacacadadabacacaaaaadabadadacaaacadabaaadabaaacacaaacacabaaababaaadabacaaabacadabaaacabacabaaadaaabacacabacaaadadadabadacacacadababacabaaadacadabaaac
+aaacabaaabacabababacababacadaaaaabacabacaaaaacadaaabadacabadabacababadaaaaaaabaaabacacacaaacadacababaaacacabaaaaabadadabacaaadaaabadadacacabadacaaacadacaaabaaadacaaadadadabacabacadabaaaaaaacacabadacaa
+adacaaabacacadacadacacabaaadadacababadacaaacadaaabacaaacadabaaacaaadacabaaaaadaaabaaabacabadababaaaaabadabababadaaacabaaaaabaaadadacabacadadaaabaaadadaaadabadadaaababadaaaaaaababadaaacacaaabaaaaabadaa
+adabacacabacadadadaaadabaaacaaaaaaaaacaaadadabaaabacacaaadababadacacadabadadacacacaaadaaaaacacabababadacadacadacadaaaaabaaadabadacaaabaaaaabadabadacabadaaabababadabadacabacadacababaaaaadaaacabadabacad
+acabaaacabacabacaaacadadadaaaaadababacababaaacaaaaadacabaaacadadaaadaaacacacadaaaaacadadabacabaeafafafafafagadaaabacabacacabacababaaaaadabacacacacacaaacaaaaaaacabacabaaaaabacadaaadabaaabaaababacaaaaab
+aaacacabababadabaaacabababaaacadacacaaabaaaaacadacabacadababadaaaaadacacadacabacaaabadaaacacaaahaiajajajakalababacabaaadacadaaabaaadadabadaaaaadabaaadabaaaaaaabadadaaacadabacadaaadaaabaaadaaabababadac
+adaaadabaaaaacababaaacaaaaaaababacacabacadacabadabacaaacabaaabacabaaabacadacacababacabacadadabahamanananaoalaaadaaaaacadaaadacadacadababaaacababadadabaaabaaacabadadabacabacadacacabadaaabadabacacaaabad
+adacaaaaaaabaaacacaaabaaabadacadacaaadacacabaaacadabadaaaaababadadadababaaacadaaababababadabacahamapananaoalabacadadaaacadadadacabadaaadaaacaaadaaabadabaaababaaadadacabadadacabacabaaaaacacadacacababaa
+acadaaabaaaaacabadacababacacaaabaaadacaaadabacaaadadababadadacaaadacacabadaaacacaaabacadacadaaahamaqananaoalaaabaaacabaaadacabadadabaaaaacabacabadadacadacacabacabacadaaacadadaaabaaacabadadabadaaacacaa
+aaacaaadacaaaaadabaaabadadaaacaaabadabadaaaaaaaaadacadabaaacacabadacacaaababababababaaabacadabaharasasanaoalaaababadadababacaaacabacababacabadacacacabadacabababacaaadaaaaacacadaaadababacacaaacabacadaa
+acabacacacabaaacadabacacadacadacadadadacacacababadaaabaaacadabababadadaaababaaacabababacacacatauavavawamaoaxavavavayaaaaabacadaaaaadadadaaadadababaaaaabacabacacadaaabaaadacaaaaabacaaaaacaaacaaadababaa
+adaaabababaaadaaabacababadadacabacaaaaabaaadadaaabaaadadabaaabaaadababaaaaadabacacaaaaacadaaalaiajajajananajajazakalabadadacacadacadadacaaabaaadaaacaaaaababacabacadaaadaaadadaaaaadaaaaaaaaacaaaaadacaa
+abacacaaabacababadacacacacababadadadadaaababadadaaababadabacabadaaabacaaaaababadabaaaaabadabalamananananananaAaBaoalababacacacadacabaaabacababacaaababaaacadadababaaacabacacadacababacadacaaabacacabaaab
+aaadadadaaabaaacacadadadacacacaaacadacadacabadadaaadababadabadacaaabababaaaaadaaabadaaadacacalamaCaDaDaDaEanaFaGaoaladadaaabadaaadabadaaadacadacacabacaaacaaacabacadadacacacaaaaacabaaaaadadacadacacabac
+adabacaaacaaacacabaaadaaababacacadadababacadacacacadacabacabadaaacaaacadababadacaaadacadaaabalamaDaHaHaHaDaIaJaKaoaladabaaacadabaaacacabaaacadadacaaadadaaadaaaaadaaaaadadadacaaadabadadacacadacaaadadaa
+adadabababadacadadaaaaababaaadacadacabacaaaaadacacaaacaaababaaaaacadacaaacacadacabadaaadadadalamaDaHaLaHaDanaMaNaoalacacaaadaaacadabadadacabadacabacacadadaaadabacabacadababacabadabadacabadacacacabacad
+adacadabacadaaacadadadaaaaabadaaadabadabadacacadacaaadacaaadadababadabacabacadadadadacacadaaalamaDaHaOaHaDananaPaoaladacaaababaaaaabaaaaadaaacacacadababacadacacababaaacacadacadabacabacacaaaaaaadadaaab
+ababacacacaaaaaaabadaaacabaaadaaacadadaaacabacacabaaababacaaacabacabacaaaaadacaaabaaadacacabalamaDaDaDaDaDanaQaRaoaladadababaaacabacacabaaaaaaabababadaaaaadabababadabaaadadababacabaaadadabaaabacabaaaa
+acabacabaaaaabacabacacadadadabadacabaaadacacabaaaaadacababaaacacadacababacaaaaadabaaaaabacadalamananananananaSaTaUahaaadadabacabacabacaaaaacadabadadacacabacacacababadabadadacacabacacaaadadadabadaaadaa
+acaaacaaadaaacabaaacaaaaabaaaaabababaaadacacaaabacacacacaaacacadaaadababadababacaaacaaadadabalamananananananaVaVaUahaaacaaaaacabadadabacabadadabacadadaaadadacacaaadaaabababadaaaaabaaaaaaababacababaaad
+aaadaaadacaaaaabacabacacacaaabaaadabacaaacadadabadaaaaadadadacacaaacacadadabadacadacaaacacaaahaWaXaXaXaXaXaXaXaXaYahabaaadabadadababadaaaaabaaadadacacabacaaaaaaabadaaacaaacacaaacacadaaadacadababaaadac
+aaaaadaaaaabacabadacaaabaaadaaabadacabacabaaabaaabadaaabaaacadacaaabadadaaaaacacacadabacabaaaZafafafafafafafafafafbaacacabacaaaaadacadaaaaadacaaabaaaaaaabaaaaaaababacaaaaabaaacabaaadadaaadadaaabadabab
+abadacababadacacadadacabadabacacaaacaaacadaaadacacabaaaaababacabaaacadadadababababadadacacadaaabadababababaaabacabacaaaaaaacabaaacadadacabadabaaacadadacacaaacaaacaaaaaaacacaaadaaaaaaacacacaaabadababaa
+adadadadacadacaaabacaaadaaacacabadaaacacadabaaacacacacacabacabacaaacadababadaaaaaaacabaaacabacacaaacacacaaadababaaaaadabadaaaaaaabacaaacacababadabaaacadabadabaaaaadacabacabacacadabababaaadabadadaaaaab
+adabadadadabadadadaaacacacacaaacadacabacadadadadaaacabadadaaabaaabadabacadabadababacadabaaabaaaaacadabacabaaabacabacaaabaaacabacadacaaaaababadadacadacacadaaacaaadabadabaaacadabadadaaaaacadabadaaadabaa
+acaaabadaaadacaaadadaaabadabacabaaacadaaabababababaaabababaaadabacaaabacacadabacaaadadacadacaaaaacaaabacacacaaacadaaacacaaadacacabadacacaaacabadadacacaaabadacacabababadacacabacabadabaaacabababaaadadad
+acadaaaaadadabadacacabadacabacacacacabaaaaacacababacadaaabacadababaaaaacabadacacacadadadabaaacaaadaaaaadadadaaadacaaabacacacaaadacadabaaabaaaaacadadabadacabadadadadacaaaaacadabadaaadadacadaaadabaaadaa
+acaaabaaacabacaaacaaabacabadacabadacaaacacacacacaaaaabaaababadaaacacadacaaacababaaaaaaaaaaabacaaaaacababacabadadadadacacacadacadaaacacadaaadacadadaaaaacacaaadabaaaaaaababacadacaaaaacaaadadabadabaaacaa
+acadadacadabacabadabadadabaaabacadacacabaaaaadabacadaaadadababacabaaaaaaadadaaaaadadaaadacaaacaaadadadadaaaaacacadaaabababacaaacadabadaaabacaaadaaabadabacaaaaabaaabababadaaacababaaadababadaaacadaaadaa
+abacabacacaaabadacaaadaaadacadaaadabadabadabaaabababaaababacadabaaabadadaaabadaaadaaadababacacabaaabaaadabadababacacacabacaaadababacabadaaacabadacaaabaaacaaacaaacaaacadabacababacadadabadacadaaaaadabad
+adabacadaaadacaaacacadaaacaaababacacacadadadadababadaaabaaabadacacacabadacadaaaaadadacadacabadadacadaaacaaaaadacacabadaaadaaabacaaabacaaabaaacacaaaaaaadadababacadacadadadaaabacacadadacaaaaadacaaacaaaa
+aaadadacacabacabadacacaaaaadacadadaaacabadaaacaaacaaacaaadabadacaaaaaaacabaaadaaabadacacadaaabadabaaabaaadaaacabaaacacababaaaaaaadaaaaadacacadadabaaabaaabaaacabadacadaaacaaacacacabadadacadacaaadacadad
+aaaaabadacaaacacacadadadadadaaaaacaaabaaaaadababadadacacadaaacaaaaacabaaaaabadaaabababaaaaababaaabaaabacabacaaacababaaadacaaacadacaaadaaaaaaadadacacabaaaaababadacadadadaaaaacacabaaabacacacadaaadaaaaad
+acacadacacadababababadaaadacabaaacacababadacabadadaaabacadaaabacacadaaacaaadaaacacabaaaaacacadaaadadabababacabadaaabacabaaadacaaabacacadacaaacabababaaadaaaaaaababacabaaacaaadababadaaacaaacabaaadadaaad
+aaaaadaaacababacacaaacabaaacababacacadacabaaabadaaadabadababadadaaaaadacadabacacadadaaacabababaaacabaaababaaadababaaacadaaaaadadababacabababacaaadaaadaaacabaaaaadadaaadacabaaabababadabacaaababacaaaaac
+aaacacacadaaabaaacaaabacaaadabadadabadacacaaadaaadaaaaadaaadababadababababacacaaaaadadaaacabaaabaaacacabababadacadaaadaaaaabadacacacacacaaaaaaabadabadacaaabacaaaaadaaacabaaadababacacaaababacadacabaaad
+aaadadadadadaaadaaacabaaabadadaaadabaaacaaabaaadadacaaacadabaaabacacadabababadacaaadaaadadadaaacadaaaaababadadacacacabacaaabadabaaaaadacadacadaaacacacaaadacabadacaaabacaaacabacabacaaaaabababacadabacaa
+adacaaabadaaacaaaaabacaaaaadaaacacababaaabadabaaababaaacacabadacaaaaabadacacacacacabababacadadaaadababaaabaaaaacacadaaacabadabababaaacabaaabadacabadabadacaaacaaaaaaabacabadababacaaabacaaadacaaaaaaadac
+adadacacacabadacaaacacacadaaacabadabaaacaaaaaaacaaaaacaaadababaaacadacadacacaaadaaadadacacaaadacacabacadacadacabacababaaadacababacababaaaaabaaabadadadabaaaaacabababacaaadacacadabadabadabacacabacadaaac
+adaaadaaacacaaabacadacadacacabadabadacadacaaacabadabadadacacacadacabaaacadaaacabaaadabacabadaaaaaaacababababababaaadababacabadacabababaaaaabacabacabacacacabaaacaaacaaaaadadadadaaadadabaaadacacadabacad
+abacadadabaaacaaadaaadadabacaaadacaaacadacadaaadacacacacaaadadaaadaaaaabacadadacabaaabaaabadadacadabaaabaaacaaababacaaadacaaabacababaaaaadabacadadaaaaabacabacaaaaacaaadaaacacadacadacacabaaacacacabadac
+ababaaaaabababacadabacacababadabacadadaaababaaacacaaaaadadaaabababaaaaabacacadababaaadabaaabababaaadacacadababacaaadacadaaadabababadaaaaadabaaacadaaadaaadaaaaaaabadabacabaaadacacadaaaaadabaaadaaacaaad
+acabaaacabadadacadacadabacacaaacacadadabadadadababacacabacabaaaaacabadababaaacaaadadacadadaaaaabadadaaadacabababacabacadacabacacadabaaaaacadacadadacacabadaaadadaaadadadadababababacadaaadaaadadababaaac
+aaadadabaaacababacadadabaaacadadaaabacacadadaaaaaaabacacaaadaaadabadaaadadacaaacacadaaabadaaacabacadababadababadadaaacaaacadacadadabadacadacaaacababacaaadaaadabadacababadabaaaaaaacacaaaaabadacabaaacaa
+abaaaaadabacacacaaadaaaaaaabadacaaacadadabadaaacadadabacaaadabadabacadadababadacadaaababacadacaaaaacabacaaadabaaadaaadacaaabadacaaadabaaaaacaaabaaacaaaaadabacaaaaadababadadabaaadacadadabacaaaaadaaaaad
+abacadadaaadaaabacaaaaabababacababacadacabaaaaabaaadababaaabaaacadabaaadadadabacabacadadacabaaaaadacadadabababacaaadabadacaaabaaadacacacadacadacaaadaaababaaaaacaaadadabadaaacaaacacababaaabacabacadadab
+acacaaacabadadaaadadacadadacadaaacacadabacabaaabaaacadaaacabacacadabadabadaaacacaaacacaaababababaaacababaaabaaacadaaadabadadadadabadacacaaacacaaadabacabaaabaaaaaaabacaaabacadadadabaaaaadabababaaabaaad
+aaacacabaaacacabaaaaacaaabadaaaaacaaacacacacaaacacaaaaabadacaaadacaaacacacaaacaaabadababaaadaaadabacacadacadacaaaaabadabacacadadabaaacadabacadadabaaababaaadabadacacabadaaaaaaabacacadadabadacadadacacab
+aaaaabacaaabadacabacacabadacacaaaaabababadabaaadabadadacaaacabadacaaaaacadaaababadaaaaababacabacaaacabacacacadacababadadabaaadaaadadabaaadadadaaabacaaaaacacacaaabacadaaaaabababacacaaabaaacacadacaaabac
+adabadaaabacacaaadabaaaaadacaaaaabadabaaaaadacabadacacadababababaaadadadadacacaaacaaacabadababadaaadadadadacacabadaaadadacabadadadabaaadacaaacacabaaadacadadadabaaabaaacacababaaabacadababaaaaaaadaaaaac
+acabacacacacadababaaadabadacaaabacaaaaabadaaaaadacaaaaacacabadabacabacaaacacaaabaaacacadadabaaababadadadacadacacadabadacaaaaacabacacababadabaaaaaaaaaaadacaaaaacababaaaaaaabadadadadabadaaacadadabaaaaab
+abacadabacacabaaacababadadadadacacadacabadabaaaaaaacacaaacadababaaaaadabadaaaaaaadadaaaaaaacacababaaabacabadabadaaacacaaadadacacacababacacabadadaaacacacaaadaaabadaaacacadaaadaaadadadaaadaaaaaaabadabaa
+aaacacadababacababacacaaaaacaaadadabadacadacacaaabadacabaaadacadacadaaababacaaadabaaabacacaaacaaacacabadadacadadabadacacabacabadaaaaacacadadababacabaaadabacadaaaaacadababadaaabadadadaaaaaaaaabaaaaadab
+aaabaaacabadacacadaaadadacacaaacacaaadabacabaaabaaacaaacacaaadadadadadadaaacadaaababacabacadadadaaadadaaadaaababacabaaacaaaaacacacacaaacadadacaaabaaacaaadabacabaaabacadacacaaadacaaadacaaacabadabacadad
+aaadadabacadaaabacaaabadababaaadaaacacababadadaaadababacabacacadacaaadadadadacadadadaaaaabababaaaaaaabaaaaacababacaaabadaaaaacadabadaaacadacacacaaaaacabacadacadacadaaabacaaaaacaaadababaaaaacababaaaaad
+adaaaaadadacacadadacaaadaaadaaacadaaadabacacadabadababadacababacabadaaacaaabadaaacadacaaacaaadabadacacadaaacaaadacadaaadadadacadacaaaaadadabadaaabaaadacabacacaaacadadaaabadadadaaabacaaabaaaaaaacabaaad
+abadacaaabacaaabababacadacadadacabababaaababacaaaaaaacaaaaacaaadadadaaaaadadaaababadacadadadadabacabaaaaabaaadabadaaaaaaacadababababaaadadacadabaaabadadababaaabacadabadababadadababaaadadaaadadacaaabaa
+abaaabadabaaadaaadadabaaaaaaababadababaaadabadacacaaaaacacacabaaadacacacacacadabababadadadadadaaaaacadadacadabadaaaaadaaadadaaacababaaababacabadabaaaaabaaaaaaadadadacabaaabacacadabacacacaaadababaaacad
+abacacabaaacaaabaaaaabadadaaacaaaaadacaaaaaaadacadabaaabaaaaaaabadacabacababababacaaadadaaaaaaabadadaaadadacadaaababaaaaadadadadacaaaaadadabababaaacaaababadadabaaadacababaaacabaaacadabadaaabadadacaaac
+ababadacaaacacabababacabacaaacacadacadacacadabacaaadaaabaaacabababaaaaadaaacaaaaacababadaaaaacacabadaaadaaaaababacabadadababadaaaaaaacabaaacadadabadacaaadacadaaadadacacacaaabacacaaabaaadaaacacabadabac
+adababaaaaacabababadaaabacacacadadaaadadacabababaaacadaaadababababacabaaacadacacadadadacabaaaaabacadabaaacadadacaaaaadacaaacacacacaaaaabadabaaabaaaaaaacadacaaacadaaaaaaaaadababaaaaadaaaaaaababaaadabaa
+adababadaaadaaadaaadadadadadabacababacacaaadacaaadadaaabababababacaaababaaabaaadaaaaadacaaacabaaacacabadabacadadababacadabadaaaaacacaaaaabadadabadacacacacaaacababaaaaadaaaaacacaaababadacacaaadacacabac
+aaadadacaaabacaaaaacabababacadadabaaababaaacaaabadadacaaadacabadadacadaaacabacaaacabacabadabaaaaadacaaaaacadacaaaaaaacabadabacadabaaaaadacacabacaaacadadadabacaaadaaabacadaaababaaabacabaaacadacababacac
+adadadadababadabaaababaaabaaaaadadadabaaaaadaaaaaaaaabababacabadabaaadadadacaaacabadababadaaababadabacaaadabaaacadababacacababadabaaabadababacaaaaaaacaaadadacaaababadababacaaaaadabaaaaacacaaababadadaa
+acabacaaababadabaaaaadaaadababacadacadadaaacadaaadaaacadabacadababaaabacadabacacacaaabababacacabaaabaaadacaaabaaacabadadacadadabadadacadababaaababaaacabadabaaacabaaacacababadabacadacabaaacaaacaaaaadaa
+adadadadaaaaaaadabacacadaaadaaaaabadaaadaaadadacadabacaaaaacaaabadaaadadacaaaaacadaaaaabaaaaaaacadaaaaadaaadacadaaadacadacaaaaacadacabacadadacaaadababaaababadacacacadaaacacabaaabadacabaaabaaababaaaaaa
+abaaaaaaadaaadabadabaaadaaabacaaadadabadabacadacaaacabaaacacaaaaacaaabababacabaaabacacacadaaadaaadadadacaaadabacabacadabaaacacabaaaaaaadadacaaabaaabadabacabadaaaaabaaacaaaaabaaaaabadababadadadaaabaaaa
+aaadaaadaaadacacaaaaacaaaaababababadabadabaaabacacacadadacacacaaacabacacabacabadabadabadacadababacacacaaabadacabacaaabaaadacacaaadacaaabababadaaabadaaaaadaaababacadaaabacabaaabacacadadababaaaaadacabaa
+aaadaaaaacaaacabacacababacacadacadacababaaabacabaaababadabaaabacabadabadabadaaabababaaadadacadacabadaaacabadadadacabababacababadaaabababacabadacacabaaadadacaaadacaaababababadacaaaaadacabadadadaaaaabac
+aaaaababadadaaaaacacabadaaacababacaaaaadadaaacaaadabadabadacacaaababaaaaadadaaadabadadaaabacabaaacacacabacaaadacacadadacaaacadabababacadabadababaaaaabaaabacaaabadacabaaabacaaaaadacadadabaaabababababab
+abacacacadaaacaaadaaadabacadadadadacaaabacaaabaaadaaababadabaaacabadabaaaaacacabaaacababadadadacadacadadaaadacabacaaaaadababacababaaaaacabaaadaaadacabaaacadaaacacadaaaaaaadabadadacadabadabaaaaaaadabac
+"}

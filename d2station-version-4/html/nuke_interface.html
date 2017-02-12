@@ -1,0 +1,83 @@
+<html>
+<head>
+	<title>Nuclear Explosive</title>
+	<style type="text/css">
+		body {
+			font-family: Tahoma;
+			font-size: 12px;
+			background: #581;
+			text-align:left;
+		}
+		
+	
+		#keypad {
+			margin:0px;
+			padding:0px;
+			width: 120px;
+			float:left;
+		}
+
+		#keypad tr td {
+			vertical-align:middle;
+			text-align:center;
+			border:1px solid #000000;
+			font-size:18px;
+			font-weight:bold;
+			width:30px;
+			height:20px;
+			cursor:pointer;
+			background-color:#666666;
+			color:#CCCCCC;
+		}
+		
+		#keypad tr td:hover {
+			background-color:#999999;
+			color:#FFFF00;
+		}
+		
+		#container
+		{
+			margin:0px;
+			padding:0px;
+			width: 600px;
+		}
+		
+		#display {
+			margin:0px;
+			padding:0px;
+			float:left;
+			width:480px;
+		}
+	</style>
+</head>
+<body>
+	<h2>NANOTRASEN NUCLEAR EXPLOSIVE C4.52<h2>
+	<div id = "container">
+		<table id="keypad" cellpadding="2" cellspacing="2">
+			<tr>
+				<td onclick="keypadPress('1');">1</td>
+				<td onclick="keypadPress('2');">2</td>
+				<td onclick="keypadPress('3');">3</td>
+			</tr>
+			<tr>
+				<td onclick="keypadPress('4');">4</td>
+				<td onclick="keypadPress('5');">5</td>
+				<td onclick="keypadPress('6');">6</td>
+			</tr>
+			<tr>
+				<td onclick="keypadPress('7');">7</td>
+				<td onclick="keypadPress('8');">8</td>
+				<td onclick="keypadPress('9');">9</td>
+			</tr>
+			<tr>
+				<td onclick="keypadPress('R');">R</td>
+				<td onclick="keypadPress('0');">0</td>
+				<td onclick="keypadPress('E');">E</td>
+			</tr>
+		</table>
+		<div id = "display">
+			hehehehehehehe
+		</div>
+	</div>
+</body>
+</html>

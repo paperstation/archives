@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Create Object</title>
+  <link rel="stylesheet" type="text/css" href="{{resource("css/style.css")}}">
+</head>
+
+<body id="createobj">
+	<form name="spawner" action="byond://?src=/* ref src */" method="get">
+		<input type="hidden" name="src" value="/* ref src */">
+		<input type="hidden" name="action" value="object_list">
+		
+		Type <input type="text" name="filter" value="" style="width:280px" onkeydown="submitFirst(event)"><input type="button" name="search" value="Search" onclick="updateSearch()" style="width:70px"><br>
+		Offset: <input type="text" name="offset" value="x,y,z" style="width:250px">
+		
+		A <input type="radio" name="offset_type" value="absolute">
+		R <input type="radio" name="offset_type" value="relative" checked="checked"><br>
+		
+		Direction: S<input type="radio" name="one_direction" value="2" checked="checked">
+		SE<input type="radio" name="one_direction" value="6">
+		E<input type="radio" name="one_direction" value="4">
+		NE<input type="radio" name="one_direction" value="5">
+		N<input type="radio" name="one_direction" value="1">
+		NW<input type="radio" name="one_direction" value="9">
+		W<input type="radio" name="one_direction" value="8">
+		SW<input type="radio" name="one_direction" value="10"><br>
+		
+		Number: <input type="text" name="object_count" value="1" style="width:330px">
+		<br><br>
+		
+		<div id="selector_hs"> 
+			<select name="type" id="object_list" multiple size="20">
+			</select>
+		</div>
+		
+		<br>
+		<input type="submit" value="spawn">
+	</form>
+	
+	<script language="JavaScript">
+		var old_search = "";
+		var object_list = document.spawner.object_list;
+		var object_list_container = document.getElementById('selector_hs');
+		var object_paths = null /* object types */;
+		var objects = object_paths == null ? new Array() : object_paths.split(";");
+		
+		document.spawner.filter.focus();
+		populateList(objects);
+		
+		function populateList(from_list)
+		{
+			var newOpts = '';
+			var i;
+			for (i in from_list)
+			{
+				newOpts += '<option value="' + from_list[i] + '">'
+					+ from_list[i] + '</option>';
+			}
+			object_list_container.innerHTML = '<select name="type" id="object_list" multiple size="20">' + 
+			newOpts + '</select>';
+		}
+		
+		function updateSearch()
+		{
+			if (old_search == document.spawner.filter.value)
+			{
+				return false;
+			}
+			
+			old_search = document.spawner.filter.value;
+			
+			
+			var filtered = new Array();
+			var i;
+			for (i in objects)
+			{
+				if(objects[i].search(old_search) < 0)
+				{
+					continue;
+				}
+				
+				filtered.push(objects[i]);
+			}
+			
+			populateList(filtered);
+			
+			if (object_list.options.length)
+				object_list.options[0].selected = 'true';
+			
+			return true;
+		}
+		
+		function submitFirst(event)
+		{
+			if (event.keyCode == 13 || event.which == 13)
+			{
+				if (updateSearch())
+				{
+					if (event.stopPropagation) event.stopPropagation();
+					else event.cancelBubble = true;
+
+					if (event.preventDefault) event.preventDefault();
+					else event.returnValue = false;
+				}
+			}
+		}
+	</script>
+</body>
+
+</html>

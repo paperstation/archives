@@ -1,0 +1,11 @@
+/obj/closet/syndicate/deathcommando/New()
+	new /obj/item/clothing/suit/armor/deathcommando( src )
+	new /obj/item/weapon/tank/jetpack( src )
+	new /obj/item/clothing/mask/gas/swat( src )
+	new /obj/item/clothing/head/helmet/swat( src )
+	new /obj/item/weapon/storage/toolbox/mechanical( src )
+	new /obj/item/weapon/storage/flashbang_kit( src )
+	new /obj/item/weapon/gun/energy/crossbow( src )
+	new /obj/item/weapon/cloaking_device( src )
+	new /obj/item/clothing/under/syndicate( src )
+	return

@@ -1,0 +1,42 @@
+
+
+Starting up. 19:15.41
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ADMIN: Banlist is empty.
+ADMIN: Banlist missing base dir.
+ACCESS: Login: Keelin/(Keelin) from localhost
+ACCESS: Logout: Keelin/(Keelin)
+
+
+Starting up. 20:15.00
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: Loading Banlist
+ACCESS: Login: Keelin/(Keelin) from localhost
+ACCESS: Logout: Keelin/(Keelin)
+
+
+Starting up. 20:17.06
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: Loading Banlist
+ACCESS: Login: Keelin/(Keelin) from localhost
+ADMIN: Keelin has started the game.
+ACCESS: Logout: *no client*/(Keelin)
+ACCESS: Login: Keelin/(Jesus Lewis) from localhost
+ACCESS: Logout: Keelin/(Jesus Lewis)

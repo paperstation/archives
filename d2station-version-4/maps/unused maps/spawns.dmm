@@ -1,0 +1,64 @@
+"a" = (/turf/space,/area)
+"b" = (/obj/landmark/start,/turf/space,/area)
+"c" = (/obj/landmark/start{name = "Cyborg"},/turf/space,/area)
+"d" = (/obj/landmark/start{name = "Quartermaster"},/turf/space,/area)
+"e" = (/obj/landmark/start{name = "Warden"},/turf/space,/area)
+"f" = (/obj/landmark,/turf/space,/area)
+"g" = (/obj/landmark{name = "Nuclear-Closet"},/turf/space,/area)
+"h" = (/obj/landmark{name = "xeno_spawn"; pixel_x = -1},/turf/space,/area)
+"i" = (/obj/landmark/start{name = "AI"},/turf/space,/area)
+"j" = (/obj/landmark/start{name = "Chaplain"},/turf/space,/area)
+"k" = (/obj/landmark/start{name = "Detective"},/turf/space,/area)
+"l" = (/obj/landmark/start{name = "wizard"},/turf/space,/area)
+"m" = (/obj/landmark{name = "Artifact spawn"},/turf/space,/area)
+"n" = (/obj/landmark{name = "Observer-Start"},/turf/space,/area)
+"o" = (/obj/landmark/start{name = "Assistant"},/turf/space,/area)
+"p" = (/obj/landmark/start{name = "Chef"},/turf/space,/area)
+"q" = (/obj/landmark/start{name = "Geneticist"},/turf/space,/area)
+"r" = (/obj/landmark/start{name = "Roboticist"},/turf/space,/area)
+"s" = (/obj/landmark{name = "blobstart"},/turf/space,/area)
+"t" = (/obj/landmark{name = "prisonwarp"},/turf/space,/area)
+"u" = (/obj/landmark/start{name = "Atmospheric Technician"},/turf/space,/area)
+"v" = (/obj/landmark/start{name = "Chemist"},/turf/space,/area)
+"w" = (/obj/landmark/start{name = "Head of Personnel"},/turf/space,/area)
+"x" = (/obj/landmark/start{name = "Scientist"},/turf/space,/area)
+"y" = (/obj/landmark{name = "carpspawn"},/turf/space,/area)
+"z" = (/obj/landmark{name = "Syndicate-Bomb"},/turf/space,/area)
+"A" = (/obj/landmark/start{name = "Bartender"},/turf/space,/area)
+"B" = (/obj/landmark/start{name = "Chief Engineer"},/turf/space,/area)
+"C" = (/obj/landmark/start{name = "Head of Security"},/turf/space,/area)
+"D" = (/obj/landmark/start{name = "Security Officer"},/turf/space,/area)
+"E" = (/obj/landmark{name = "JoinLate"},/turf/space,/area)
+"F" = (/obj/landmark{name = "Syndicate-Gear-Closet"},/turf/space,/area)
+"G" = (/obj/landmark/start{name = "Janitor"},/turf/space,/area)
+"H" = (/obj/landmark/start{name = "Station Engineer"},/turf/space,/area)
+"I" = (/obj/landmark{name = "lightsout"},/turf/space,/area)
+"J" = (/obj/landmark{name = "Syndicate-Spawn"},/turf/space,/area)
+"K" = (/obj/landmark/start{name = "Captain"},/turf/space,/area)
+"L" = (/obj/landmark/start{name = "Clown"},/turf/space,/area)
+"M" = (/obj/landmark/start{name = "Medical Doctor"},/turf/space,/area)
+"N" = (/obj/landmark{name = "Nuclear-Bomb"},/turf/space,/area)
+"O" = (/obj/landmark{name = "Teleport-Scroll"},/turf/space,/area)
+"P" = (/obj/landmark/start{name = "Chief Medical Officer"},/turf/space,/area)
+"Q" = (/obj/landmark/start{name = "Botanist"},/turf/space,/area)
+"R" = (/obj/landmark/start{name = "Cargo Technician"},/turf/space,/area)
+"S" = (/obj/landmark/start{name = "Virologist"},/turf/space,/area)
+"T" = (/obj/landmark/start{name = "Research Director"},/turf/space,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+abacdeafghaaaaa
+aijkalamnaaaaaa
+aopqraastaaaaaa
+auvwxaayzaaaaaa
+aABCDaaEFaaaaaa
+aaaGHaaIJaaaaaa
+aKLMaaaNOaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaPQRST
+"}

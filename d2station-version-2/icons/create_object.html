@@ -1,0 +1,98 @@
+<html>
+
+<head>
+  <title>Create Object</title>
+  <style type="text/css">
+body{
+background: url(http://forums.somethingdickful.com/d2style/bgmain.jpg);
+}
+input, radio, messagebox{
+background: #FFF !important;
+border:1 px solid #555 !important;
+}
+  </style>
+  
+<link type="text/css" rel="stylesheet" href="http://forums.somethingdickful.com/cache/themes/theme2/global.css" /> 
+<link type="text/css" rel="stylesheet" href="http://forums.somethingdickful.com/cache/themes/theme2/additionalstyles.css" /> 
+</head>
+
+<body>
+<img src="http://www.somethingdickful.com/ficons/package.png" style="margin: -3px 0;"/> <b>Spawn Panel</b>
+	<form name="spawner" action="byond://?src=/* ref src */" method="get">
+		<input type="hidden" name="src" value="/* ref src */">
+		
+		<img src="http://www.somethingdickful.com/ficons/magnifier.png" style="margin: -3px 0;"/> <input type="text" name="filter" value="" onkeyup="updateSearch()" onkeypress="submitFirst(event)" style="width:350px"><br>
+		<img src="http://www.somethingdickful.com/ficons/arrow_rotate_clockwise.png" style="margin: -3px 0;"/> <input type="text" name="offset" value="x,y,z" style="width:180px">
+		
+		Absolute <input type="radio" name="offset_type" value="absolute">
+		Relative <input type="radio" name="offset_type" value="relative" checked="checked"><br>
+		
+		<img src="http://www.somethingdickful.com/ficons/layers.png" style="margin: -3px 0;"/> <input type="text" name="object_count" value="1" style="width:330px"> <input type="submit" value="spawn"><br><br>
+		
+		<select name="object_list" id="object_list" size="20" multiple style="width:100%"></select><br>
+	</form>
+	
+	<script language="JavaScript">
+		var old_search = "";
+		var object_list = document.spawner.object_list;
+		var object_paths = null /* object types */;
+		var objects = object_paths == null ? new Array() : object_paths.split(";");
+		
+		document.spawner.filter.focus();
+		populateList(objects);
+		
+		function populateList(from_list)
+		{
+			object_list.options.length = 0;
+			
+			var i;
+			for (i in from_list)
+			{
+				var new_option = document.createElement("option");
+				new_option.value = from_list[i];
+				new_option.text = from_list[i];
+				object_list.options.add(new_option);
+			}
+		}
+		
+		function updateSearch()
+		{
+			if (old_search == document.spawner.filter.value)
+			{
+				return;
+			}
+			
+			old_search = document.spawner.filter.value;
+			
+			
+			var filtered = new Array();
+			var i;
+			for (i in objects)
+			{
+				if(objects[i].search(old_search) < 0)
+				{
+					continue;
+				}
+				
+				filtered.push(objects[i]);
+			}
+			
+			populateList(filtered);
+		}
+		
+		function submitFirst(event)
+		{
+			if (!object_list.options.length)
+			{
+				return false;
+			}
+			
+			if (event.keyCode == 13 || event.which == 13)
+			{
+				object_list.options[0].selected = 'true';
+			}
+		}
+	</script>
+</body>
+
+</html>

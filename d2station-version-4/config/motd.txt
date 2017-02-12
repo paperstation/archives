@@ -1,0 +1,4 @@
+<h1>Welcome to D2K5's Test Server!</h1>
+<p>&nbsp;</p>
+<p><a href="http://ss13.d2k5.com/"><b>Website</b></a> / <a href="http://ss13.d2k5.com/?page_id=9"><b>Server Features<b></a> / <a href="http://ss13.donglabs.com"><b>Wikistation</b></a> / <a href="http://tgstation13.servehttp.com/wiki/index.php/Main_Page"><b>TGStation Wiki</b></a><br>
+<a href="http://www.somethingdickful.com/apps/donate/"><b>Like this server? Feel free to donate!</b></a></p>

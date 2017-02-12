@@ -1,0 +1,9 @@
+// BEGIN_INTERNALS
+/*
+MAP_ICON_TYPE: 0
+WINDOW: code\developers\erika\d2k5_integration.dm;code\developers\erika\qm_vendor.dm
+DIR: code code\datums\diseases\machines code\datums\helper_datums code\developers\kitty code\game\machinery\doors code\game\objects\items code\game\objects\items\weapons code\js code\modules code\modules\mob\living\carbon code\modules\mob\living\carbon\human config data data\logs 
+FILE: code\developers\erika\qm_vendor.dm
+AUTO_FILE_DIR: ON
+*/
+// END_INTERNALS

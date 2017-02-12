@@ -1,0 +1,5 @@
+<h1> Welcome to FacepunchStation 13!</h1>
+
+<p><h3>Here's a link to our forums: http://facepunchss13.proboards.com/index.cgi</h3></p>
+
+Remember to check the rules and the changelog!

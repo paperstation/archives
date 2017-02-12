@@ -1,0 +1,146 @@
+.panel{
+    position:relative;
+    padding:5px;
+    margin:-2px;
+    background-color:#eef;
+    border: 2px solid #556;
+    display: block;
+	overflow:auto;
+}
+
+body{
+    font-size:14px;
+    background-color:#001;
+	overflow:hidden;
+}
+
+table{
+	margin:0px;
+	padding:0px;
+	width:100%;
+	border-spacing:0px;
+	border-collapse:collapse;
+}
+tr{vertical-align:top;}
+
+td{
+	font-size:14px;
+	margin:0px;
+	padding:0px;
+}
+td td{
+	padding:1px;
+}
+
+#slots{
+    position:absolute;
+    height:7%;
+	width:90%;
+    top:1%;
+    left:5%;
+    text-align:center;
+}
+#slots a{
+    margin-left:10px;
+    margin-right:10px;
+}
+
+#special{
+    position:absolute;
+    bottom:2%;
+    left:15%;
+    width:70%;
+    height:6%;
+    text-align:center;
+}
+#special a{
+    margin-left:10px;
+    margin-right:10px;
+}
+
+#general{
+    position:absolute;
+    top:9%;
+    left:1%;
+    width:29%;
+    height:83%;
+}
+
+#jobs{
+	position:absolute;
+	top:9%;
+	left:30%;
+	width:41%;
+	height:83%;
+	padding-left:0px;
+	padding-right:0px;
+}
+
+#character{
+    position:absolute;
+    right:1%;
+    width:29%;
+    top:9%;
+    height:83%;
+}
+
+a span{
+    font-style:italic;
+	text-decoration:none;
+    opacity:0.7;
+    background:#dde;
+    border: 3px solid #445;
+    color: #556;
+    font-size: 13px;
+    min-width: 200px;
+    position:absolute;
+	right:0px;
+	bottom:0px;
+	clip:none;
+    text-align: center;
+    text-transform: capitalize;
+	font-weight:normal;
+    display:none;
+    padding:5px;
+}
+
+p{
+	width:100%;
+	padding:1px;
+	margin:0px;
+	text-align:left;
+	text-transform: capitalize;
+}
+
+.leftcol{
+	text-decoration:none;
+	font-weight:bold;
+	width:35%;
+}
+
+a{
+	padding:0px;
+	color:#556;
+	text-decoration:none;
+}
+
+p a{
+	padding:2px;
+	text-decoration:none;
+}
+
+a:hover span{
+    display:block;
+}
+
+.header{
+	text-align:center;
+	width:100%;
+	font-weight:bold;
+	color:#556;
+	text-decoration:none;
+}
+.color{
+	width:23px;
+    border:1px solid #000;
+}

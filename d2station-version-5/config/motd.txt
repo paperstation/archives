@@ -1,0 +1,3 @@
+<h1>D2Station V5 Development Server</h1>
+<p>&nbsp;</p>
+<p><a href="http://d2k5.com/"><b>D2Station is coded and developed by D2K5</b></a>

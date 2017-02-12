@@ -1,0 +1,296 @@
+"aa" = (/turf/space,/area)
+"ab" = (/turf/simulated/mineral/random,/area)
+"ac" = (/obj/landmark{name = "Artifact spawn"},/turf/simulated/mineral/random,/area)
+"ad" = (/turf/simulated/floor/plating/airless/asteroid,/area)
+"ae" = (/obj/cable{d1 = 2; d2 = 4; icon_state = "2-4"; tag = "90Curve"},/turf/simulated/floor/plating/airless,/area/solar/mining)
+"af" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/power/solar{id = 3},/turf/simulated/floor/airless{tag = "icon-solarpanel"; icon_state = "solarpanel"},/area/solar/mining)
+"ag" = (/obj/cable{d2 = 8; icon_state = "0-8"},/obj/machinery/power/solar{id = 3},/turf/simulated/floor/airless{tag = "icon-solarpanel"; icon_state = "solarpanel"},/area/solar/mining)
+"ah" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/turf/simulated/floor/plating/airless,/area/solar/mining)
+"ai" = (/obj/lattice,/turf/space,/area)
+"aj" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/cable{d1 = 2; d2 = 4; icon_state = "2-4"; tag = "90Curve"},/turf/simulated/floor/plating/airless,/area/solar/mining)
+"ak" = (/turf/simulated/wall/r_wall,/area)
+"al" = (/obj/item/weapon/zippo{icon_state = "zippoon"; lit = 1; tag = "icon-zippoon"},/turf/simulated/floor/engine,/area)
+"am" = (/obj/machinery/atmospherics/pipe/vent{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/floor/engine,/area)
+"an" = (/obj/machinery/atmospherics/pipe/simple/insulated{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/wall/r_wall,/area)
+"ao" = (/obj/machinery/atmospherics/pipe/simple/insulated{tag = "icon-intact (SOUTHWEST)"; icon_state = "intact"; dir = 10},/turf/simulated/floor/plating/airless/asteroid,/area)
+"ap" = (/obj/machinery/atmospherics/pipe/simple/insulated,/turf/simulated/floor/plating/airless/asteroid,/area)
+"aq" = (/obj/machinery/atmospherics/unary/cold_sink{dir = 4; icon_state = "intact_on"; on = 1; pixel_y = 1; tag = "icon-intact_off (EAST)"},/turf/simulated/floor/plating/airless/asteroid,/area)
+"ar" = (/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (EAST)"; icon_state = "intact-f"; dir = 4},/turf/simulated/mineral/random,/area)
+"as" = (/obj/machinery/atmospherics/unary/generator_input,/turf/simulated/floor/plating/airless/asteroid,/area)
+"at" = (/obj/cable{icon_state = "0-2"; d2 = 2},/obj/machinery/power/generator_type2,/turf/simulated/floor/plating/airless/asteroid,/area)
+"au" = (/obj/machinery/atmospherics/unary/generator_input{dir = 4; icon_state = "intact"; pixel_y = -1; tag = "icon-intact (EAST)"},/turf/simulated/floor/plating/airless/asteroid,/area)
+"av" = (/obj/machinery/atmospherics/pipe/manifold{color = "red"; icon_state = "manifold-r"; level = 2},/turf/simulated/floor/plating/airless/asteroid,/area)
+"aw" = (/obj/machinery/atmospherics/pipe/manifold{color = "red"; dir = 1; icon_state = "manifold-r"; level = 2},/turf/simulated/floor/plating/airless/asteroid,/area)
+"ax" = (/obj/machinery/atmospherics/portables_connector{dir = 8},/obj/machinery/portable_atmospherics/canister/oxygen,/turf/simulated/floor/plating/airless/asteroid,/area)
+"ay" = (/obj/lattice,/turf/simulated/floor/plating/airless/asteroid,/area)
+"az" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/turf/simulated/floor/plating/airless/asteroid,/area)
+"aA" = (/obj/machinery/atmospherics/pipe/manifold{color = "red"; dir = 8; icon_state = "manifold-r"; level = 2},/turf/simulated/floor/plating/airless/asteroid,/area)
+"aB" = (/turf/simulated/wall,/area/mine/lobby)
+"aC" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/door/airlock/external{name = "Mining Outpost"},/turf/simulated/floor/plating/airless,/area/solar/mining)
+"aD" = (/turf/simulated/wall,/area)
+"aE" = (/obj/cable{d1 = 1; d2 = 4; icon_state = "1-4"; tag = "90Curve"},/turf/simulated/floor/plating/airless/asteroid,/area)
+"aF" = (/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless/asteroid,/area)
+"aG" = (/obj/table,/obj/item/weapon/shovel,/obj/item/weapon/storage/utilitybelt/full,/obj/item/weapon/pickaxe,/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless/asteroid,/area)
+"aH" = (/obj/machinery/atmospherics/pipe/simple/insulated{tag = "icon-intact (NORTHEAST)"; icon_state = "intact"; dir = 5},/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless/asteroid,/area)
+"aI" = (/obj/machinery/atmospherics/portables_connector{dir = 8},/obj/machinery/portable_atmospherics/canister/toxins,/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless/asteroid,/area)
+"aJ" = (/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/turf/simulated/mineral/random,/area)
+"aK" = (/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/obj/cable{d1 = 2; d2 = 8; icon_state = "2-8"; tag = "90Curve"},/turf/simulated/wall,/area/mine/lobby)
+"aL" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"aM" = (/obj/machinery/power/smes,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"aN" = (/obj/lattice,/obj/machinery/atmospherics/pipe/vent,/turf/space,/area)
+"aO" = (/obj/table,/obj/item/weapon/fireaxe,/obj/item/weapon/storage/toolbox/mechanical,/turf/simulated/floor/plating/airless/asteroid,/area)
+"aP" = (/obj/cable{d1 = 1; d2 = 2; icon_state = "1-2"; tag = "Streight"},/turf/simulated/wall,/area/mine/lobby)
+"aQ" = (/obj/cable{d1 = 1; d2 = 4; icon_state = "1-4"; tag = "90Curve"},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"aR" = (/obj/machinery/power/terminal{tag = "icon-term (NORTH)"; icon_state = "term"; dir = 1},/obj/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"aS" = (/obj/machinery/atmospherics/pipe/simple/general/hidden,/turf/simulated/wall,/area)
+"aT" = (/turf/simulated/mineral,/area)
+"aU" = (/obj/table,/obj/item/weapon/tank/jetpack,/turf/simulated/floor/plating/airless/asteroid,/area)
+"aV" = (/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (SOUTHEAST)"; icon_state = "intact-f"; dir = 6},/obj/cable{d1 = 1; d2 = 4; icon_state = "1-4"; tag = "90Curve"},/turf/simulated/wall,/area/mine/lobby)
+"aW" = (/obj/machinery/light/small{dir = 8},/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (EAST)"; icon_state = "intact-f"; dir = 4},/obj/cable{d1 = 2; d2 = 8; icon_state = "2-8"; tag = "90Curve"},/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"aX" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/unary/vent_scrubber{dir = 8; icon_state = "off"; on = 1; scrub_N2O = 0; scrub_Toxins = 0},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"aY" = (/obj/machinery/door/airlock/external{name = "Mining Outpost"},/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"aZ" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"ba" = (/obj/cable{icon_state = "2-8"; d1 = 2; d2 = 8},/obj/machinery/atmospherics/pipe/simple/general/hidden,/obj/item/weapon/pickaxe,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bb" = (/obj/structure/girder,/turf/simulated/floor/plating/airless/asteroid,/area/mine/lobby)
+"bc" = (/turf/simulated/floor/plating/airless/asteroid,/area/mine/lobby)
+"bd" = (/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (SOUTHEAST)"; icon_state = "intact-f"; dir = 6},/turf/simulated/wall,/area/mine/lobby)
+"be" = (/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (EAST)"; icon_state = "intact-f"; dir = 4},/turf/simulated/wall,/area/mine/lobby)
+"bf" = (/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (NORTHWEST)"; icon_state = "intact-f"; dir = 9},/turf/simulated/wall,/area/mine/lobby)
+"bg" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/door/airlock/external{name = "Mining Outpost"},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bh" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/atmospherics/pipe/simple/general/hidden,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bi" = (/obj/item/weapon/ore/iron,/turf/simulated/floor/plating/airless/asteroid,/area)
+"bj" = (/obj/machinery/dispenser/oxygen,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bk" = (/obj/crate,/obj/item/weapon/satchel,/obj/item/weapon/satchel,/obj/machinery/atmospherics/pipe/simple/general/hidden,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bl" = (/obj/crate,/obj/cable{icon_state = "0-2"; pixel_y = 1; d2 = 2},/obj/machinery/light/small{dir = 1},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bm" = (/obj/crate,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bn" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/atmospherics/pipe/vent,/turf/simulated/floor/airless{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/mine/lobby)
+"bo" = (/obj/machinery/cargopad{name = "Mining Station Cargo Pad"},/turf/simulated/floor/airless{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/mine/lobby)
+"bp" = (/obj/crate,/obj/item/weapon/circuitboard/teleporter,/obj/item/weapon/wirecutters,/obj/item/weapon/cargotele,/turf/simulated/floor/airless,/area/mine/lobby)
+"bq" = (/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"br" = (/obj/machinery/atmospherics/pipe/simple/general/hidden,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bs" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bt" = (/obj/item/weapon/toolbox_tiles_sensor{created_name = "Colonel Floorbus"},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bu" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/atmospherics/pipe/simple/general/hidden,/turf/simulated/floor/airless{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/mine/lobby)
+"bv" = (/obj/item/stack/medical/bruise_pack,/turf/simulated/floor/airless{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/mine/lobby)
+"bw" = (/obj/machinery/mineral/input,/turf/simulated/floor/airless{tag = "icon-loadingareadirty2 (EAST)"; icon_state = "loadingareadirty2"; dir = 4},/area/mine/lobby)
+"bx" = (/obj/machinery/mineral/unloading_machine,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"by" = (/obj/machinery/camera{c_tag = "Quatermaster Lobby"; dir = 4; network = "SS13"},/turf/simulated/floor/airless,/area/mine/lobby)
+"bz" = (/turf/simulated/floor/airless,/area/mine/lobby)
+"bA" = (/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bB" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/obj/machinery/atmospherics/unary/vent_scrubber{dir = 4; icon_state = "off"; on = 1; scrub_N2O = 0; scrub_Toxins = 0},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bC" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/manifold/general/hidden,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bD" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (SOUTHWEST)"; icon_state = "intact-f"; dir = 10},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bE" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/vent{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bF" = (/obj/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/manifold/general/hidden{dir = 4},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bG" = (/obj/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor/airless{tag = "icon-floorgrime"; icon_state = "floorgrime"},/area/mine/lobby)
+"bH" = (/obj/machinery/mineral/output,/obj/machinery/conveyor{dir = 1; icon_state = "conveyor0"; id = "mineasteroid"; tag = "icon-conveyor0 (NORTH)"},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bI" = (/obj/machinery/atmospherics/pipe/simple/general/visible{dir = 6},/turf/simulated/wall,/area)
+"bJ" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/atmospherics/pipe/simple/general/hidden,/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bK" = (/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bL" = (/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (SOUTHWEST)"; icon_state = "intact"; dir = 10},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bM" = (/turf/simulated/floor/plating/airless,/area)
+"bN" = (/obj/cable{icon_state = "1-2"; pixel_y = 0; d1 = 1; d2 = 2},/obj/machinery/light/small{dir = 4},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bO" = (/obj/cable{icon_state = "1-2"; pixel_y = 0; d1 = 1; d2 = 2},/turf/simulated/wall,/area/mine/lobby)
+"bP" = (/obj/machinery/light/small{dir = 8},/obj/item/device/radio/beacon,/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (SOUTHEAST)"; icon_state = "intact-f"; dir = 6},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bQ" = (/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (EAST)"; icon_state = "intact-f"; dir = 4},/obj/machinery/atmospherics/pipe/simple/general/hidden,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bR" = (/obj/item/stack/tile/steel{amount = 4},/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (EAST)"; icon_state = "intact-f"; dir = 4},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bS" = (/obj/machinery/atmospherics/pipe/manifold/general/hidden,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bT" = (/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (SOUTHWEST)"; icon_state = "intact-f"; dir = 10},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bU" = (/obj/grille,/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (SOUTHEAST)"; icon_state = "intact-f"; dir = 6},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bV" = (/obj/machinery/conveyor{dir = 1; icon_state = "conveyor0"; id = "mineasteroid"; tag = "icon-conveyor0 (NORTH)"},/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (EAST)"; icon_state = "intact-f"; dir = 4},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"bW" = (/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/wall,/area)
+"bX" = (/obj/machinery/atmospherics/pipe/simple/general/visible{dir = 9},/turf/simulated/wall,/area/mine/atmos)
+"bY" = (/obj/machinery/door/airlock/external{name = "Mining Outpost"},/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/atmospherics/pipe/manifold/general/visible{tag = "icon-manifold (WEST)"; icon_state = "manifold"; dir = 8},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"bZ" = (/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/wall,/area/mine/atmos)
+"ca" = (/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (SOUTHWEST)"; icon_state = "intact"; dir = 10},/turf/simulated/wall,/area/mine/atmos)
+"cb" = (/obj/machinery/atmospherics/pipe/simple/general/visible{dir = 6},/turf/simulated/wall,/area/mine/atmos)
+"cc" = (/obj/machinery/atmospherics/pipe/manifold/general/visible{tag = "icon-manifold (NORTH)"; icon_state = "manifold"; dir = 1},/turf/simulated/wall,/area/mine/atmos)
+"cd" = (/obj/machinery/atmospherics/pipe/simple/general/visible,/turf/simulated/wall,/area/mine/atmos)
+"ce" = (/obj/machinery/door/airlock/external{name = "Mining Outpost"},/obj/cable{icon_state = "0-4"; d2 = 4},/turf/simulated/floor/airless,/area/mine/lobby)
+"cf" = (/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/obj/item/weapon/bananapeel,/turf/simulated/floor/airless,/area/mine/lobby)
+"cg" = (/obj/cable{icon_state = "0-4"; d2 = 4},/obj/machinery/door/airlock/external{name = "Mining Outpost"},/obj/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor/airless,/area/mine/lobby)
+"ch" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/turf/simulated/floor/airless,/area/mine/lobby)
+"ci" = (/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/obj/table,/obj/machinery/cell_charger,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cj" = (/obj/cable{icon_state = "1-2"; pixel_y = 0; d1 = 1; d2 = 2},/obj/cable{d1 = 2; d2 = 4; icon_state = "2-4"; tag = "90Curve"},/obj/table,/obj/machinery/microwave,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"ck" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/vent{dir = 1},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cl" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/manifold/general/hidden{dir = 8},/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cm" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (EAST)"; icon_state = "intact-f"; dir = 4},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cn" = (/obj/cable{icon_state = "2-8"; d1 = 2; d2 = 8},/obj/machinery/atmospherics/pipe/simple/general/hidden,/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (EAST)"; icon_state = "intact-f"; dir = 4},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"co" = (/obj/grille,/obj/machinery/atmospherics/pipe/simple/general/hidden{tag = "icon-intact-f (NORTHWEST)"; icon_state = "intact-f"; dir = 9},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cp" = (/obj/machinery/mineral/input,/obj/machinery/conveyor{dir = 1; icon_state = "conveyor0"; id = "mineasteroid"; tag = "icon-conveyor0 (NORTH)"},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cq" = (/turf/simulated/wall,/area/mine/atmos)
+"cr" = (/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/atmospherics/pipe/simple/general/visible,/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cs" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"ct" = (/obj/machinery/camera{c_tag = "Atmos"; name = "Security Camera"; network = "SS13"},/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (NORTHEAST)"; icon_state = "intact"; dir = 5},/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cu" = (/obj/machinery/atmospherics/filter{dir = 8; filter_type = 2; icon_state = "intact_on"; name = "Gas filter (N2 tank)"; on = 1},/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cv" = (/obj/machinery/atmospherics/filter{dir = 8; filter_type = 1; icon_state = "intact_on"; name = "Gas filter (O2 tank)"; on = 1},/obj/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cw" = (/obj/machinery/atmospherics/pipe/simple/general/visible,/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cx" = (/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (NORTHWEST)"; icon_state = "intact"; dir = 9},/turf/simulated/wall,/area/mine/atmos)
+"cy" = (/obj/item/weapon/shard,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cz" = (/obj/cable{icon_state = "1-2"; pixel_y = 0; d1 = 1; d2 = 2},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cA" = (/obj/machinery/mineral/stacking_unit_console{pixel_y = -28},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cB" = (/obj/machinery/atmospherics/unary/vent_scrubber{dir = 1; on = 1; scrub_N2O = 0; scrub_Toxins = 0},/obj/cable,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cC" = (/obj/machinery/conveyor_switch{id = "mineasteroid"},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cD" = (/obj/machinery/mineral/processing_unit_console{name = "Smelting Unit console"; pixel_y = -28},/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/atmospherics/pipe/simple/general/hidden,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cE" = (/obj/grille,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cF" = (/obj/machinery/mineral/processing_unit{name = "Smelting Unit"},/obj/machinery/conveyor{dir = 1; icon_state = "conveyor0"; id = "mineasteroid"; tag = "icon-conveyor0 (NORTH)"},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cG" = (/obj/machinery/alarm{dir = 4; pixel_x = -23; pixel_y = 0},/obj/cable{icon_state = "1-2"; d1 = 1; d2 = 2},/obj/machinery/light/small{dir = 8},/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (NORTHEAST)"; icon_state = "intact"; dir = 5},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cH" = (/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cI" = (/obj/machinery/atmospherics/binary/pump/hipressure{dir = 8; icon_state = "intact_h_off"; name = "Emergency Air Venting"; on = 0; target_pressure = 5066.25},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cJ" = (/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (SOUTHWEST)"; icon_state = "intact"; dir = 10},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cK" = (/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cL" = (/obj/machinery/atmospherics/pipe/simple/general/visible,/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cM" = (/obj/cable{icon_state = "2-4"; d1 = 2; d2 = 4},/obj/cable{icon_state = "4-8"; d1 = 4; d2 = 8},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cN" = (/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cO" = (/obj/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (NORTHEAST)"; icon_state = "intact"; dir = 5},/turf/simulated/wall,/area/mine/lobby)
+"cP" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/wall,/area/mine/lobby)
+"cQ" = (/obj/machinery/mineral/output,/obj/machinery/conveyor{dir = 1; icon_state = "conveyor0"; id = "mineasteroid"; tag = "icon-conveyor0 (NORTH)"},/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cR" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/wall,/area)
+"cS" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/wall,/area/mine/atmos)
+"cT" = (/obj/cable{icon_state = "2-8"; d1 = 2; d2 = 8},/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (EAST)"; icon_state = "intact"; dir = 4},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cU" = (/obj/machinery/atmospherics/pipe/manifold/general/visible{tag = "icon-manifold (NORTH)"; icon_state = "manifold"; dir = 1},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cV" = (/obj/machinery/atmospherics/pipe/manifold/general/visible{tag = "icon-manifold (EAST)"; icon_state = "manifold"; dir = 4},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"cW" = (/obj/machinery/computer/teleporter/longrange,/obj/cable,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cX" = (/obj/machinery/teleport/station,/obj/cable,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cY" = (/obj/machinery/teleport/hub,/obj/cable,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"cZ" = (/obj/machinery/conveyor{dir = 8; icon_state = "conveyor0"; id = "mineasteroid"; tag = "icon-conveyor0 (NORTH)"},/obj/machinery/diverter{tag = "icon-diverter0 (NORTHWEST)"; icon_state = "diverter0"; dir = 9},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"da" = (/obj/machinery/conveyor{dir = 8; icon_state = "conveyor0"; id = "mineasteroid"; tag = "icon-conveyor0 (NORTH)"},/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"db" = (/obj/machinery/conveyor{dir = 8; icon_state = "conveyor0"; id = "mineasteroid"; tag = "icon-conveyor0 (NORTH)"},/obj/machinery/mineral/output,/obj/item/weapon/cell/high,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"dc" = (/obj/machinery/conveyor{dir = 8; icon_state = "conveyor0"; id = "mineasteroid"; tag = "icon-conveyor0 (NORTH)"},/obj/machinery/mineral/stacking_machine,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"dd" = (/obj/machinery/conveyor{dir = 8; icon_state = "conveyor0"; id = "mineasteroid"; tag = "icon-conveyor0 (NORTH)"},/obj/machinery/mineral/input,/turf/simulated/floor/plating/airless,/area/mine/lobby)
+"de" = (/obj/machinery/power/apc{dir = 8; name = "Atmospherics APC"; pixel_x = -24},/obj/cable,/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"df" = (/obj/machinery/atmospherics/mixer{dir = 1; icon_state = "intact_on"; on = 1},/obj/cable{icon_state = "0-2"; pixel_y = 1; d2 = 2},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"dg" = (/obj/machinery/pipedispenser,/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"dh" = (/obj/cable{icon_state = "0-4"; d2 = 4},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"di" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/unary/nitrogen_generator,/obj/cable{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"dj" = (/obj/cable{icon_state = "4-8"; pixel_y = 0; d1 = 4; d2 = 8},/obj/machinery/atmospherics/unary/oxygen_generator,/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"dk" = (/obj/machinery/atmospherics/pipe/simple/general/visible,/obj/machinery/light/small{dir = 4},/obj/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor/plating/airless,/area/mine/atmos)
+"dl" = (/obj/machinery/atmospherics/pipe/vent,/turf/simulated/mineral,/area)
+"dm" = (/obj/machinery/atmospherics/pipe/simple/general/visible{tag = "icon-intact (NORTHEAST)"; icon_state = "intact"; dir = 5},/turf/simulated/wall,/area/mine/atmos)
+"dn" = (/obj/structure/girder/displaced,/turf/simulated/floor/plating/airless,/area)
+"do" = (/obj/lattice{tag = "icon-latticefull (EAST)"; icon_state = "latticefull"; dir = 4},/turf/space,/area)
+"dp" = (/obj/structure/girder,/turf/simulated/floor/plating/airless,/area)
+"dq" = (/obj/structure/girder/reinforced,/turf/simulated/floor/plating/airless,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababacabababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababadadababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababadadadadababadadabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababadadaaadabadadadadababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababadadaaaaaaabaaaaadadadababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababadadaaaaaaaaaaaaaaadadababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababadadaaaaaaaaaaaaaaadabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababadadadaaaaaaaaaaadadababacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababadadadadadadadadabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababadadadabababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababacabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababaaaaaaaaaaaaaaaaaaaaaaaaaaadadababadadadadaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaaaababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababaaaaaaaaaaaaaaaaaaadadadadabababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaabababababababababacabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababaaaaaaaaaaaaaaaaaaaaaaababaaaaaaaaaaaaaaaaaaadabababababadabababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabababababadadababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababacabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabababababadadababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadadabababababadadadadababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababacabababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadababababadadadadadadababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadadadadababababacabababadadababadadadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadababababababababacabababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababadababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaaaaaadababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaadadabababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaadabababababadadababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaadababababababadaaadadadadababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababaaaaaaaaaaababababababadaaaaaaaaaaaaadadababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababaaaaaaaaaaabababababadaaaaaaaaaaaaaaaaaaadadababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaabababababaaaaaaaaaaabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaababababaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeafafafagaaaaaaaaadababababababadadadadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabababaaaaaaaaaaababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaahaaaaaiaaaaaaaaaaadabababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabadadababababaaaaaaaaaaaaababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabadadadaaaaaaaaajafafafagaaaaaaaaaaabababababababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababadabababababaaaaaaaaaaababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadababababadadaaaaahaaaaaiaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababaaaaaaaaaaababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabakakakababadadadajafafafagaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabakalakabababadadahaaaaaiaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababadadabaaaaaaaaaaababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabakamanaoabababadajafafafagaaaaaaaaaaabababababababababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababakakakapababababahadadaiaaaaaaaaaaaaababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababaaaaaaaaaaaaaaaaaaaaadababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaqarasatauavawaxababahadadayaaaaaaaaaaabababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaaaadababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadababadazadadaAaxabaBaCaBaDaDaDaDaDaDaDabababababababababababacabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababaEaFaGaHaIaJaKaLaMabaDaiaiaNaiaDabababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababadadadaOabaPaQaRabaDaDaDaSaDaDabababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababaTaTaTadaUaTaVaWaXaYaZaZaZbaadadabababacabababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababaTaTaTaBbbbcbdbebfbgaBaTaTaTaDbhabbiabababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababaaaaaaaaaaaaaaaaadababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababaTaTaBbjbcbcbkblbmbnboaBaTaDaTbhabababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababaaaaaaaaaaaaadababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaTaTaTaTaTbpbqbqbqbrbsbtbubvbwbxaTaTbhbqababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaTaTaTaTaBbybzbAbBbCbDbEbFbGaBbHaTbIbJbKbKbKbKbKbLabababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaaaabaaababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabMbMaBaBaBbzbzbzbNbObPbQbRbSbTbUbVbWbXbYbZcacbcccacdabababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabMbMbMcecfcgchchchcicjckclcmcmcncocpaTcqcrcsctcucvcwcxabababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabMaibMaBaBaBaTbzcybqczcAcBbqcCcDcEcFaTcqcGcHcIcJcKcLcqabababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabMbMabaTaTaTaTbAcMcMcNaBcEcEcEcOcPcQcRcScTcUcHcVcKcLcqababababababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaabMbMababaTaTaTcWcXcYcZdadbdcdddadadaaTcqdecLcKdfcJcLcqababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabababababababababababadaaaaaaaaaaaaaaaaaaaaaabMbMaaabababaTaDaTaTaDaTaTaDaTaTaDaTaTcqdgcLdhdidjdkcqababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababacabababababababababaaaaaaaaaaaaaaaaaaaabMbMaaabababababdlaTaTaTaTaTaTaTaTaTaTcqcqdmbZbZbZcxcqababababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababaaaaaaaaaaaaaaaaaaaabMaiaaaaabababababababababababababababababababababababababababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaabababacabababababadadadabababaaaaaaaaaaaaaaaaabababababababababacababababadaaaaaaaaaaaaaaaaaabMaiaaaaaaadabababababababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababaaaaaaaaaaaaaaababababacabababababababababadaaaaaaaaaaaaaaaaaabMbMaaaaaaaaadabababababababacababababababababababacabababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaababababababababababababacabababababaaaaaaaaaaadababababababababababababababadaaaaaaaaaaaaaaaaaabMbMaaaaaaaaaaaaadababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababaaaaaaaaaaadababababababacababababababadaaaaaaaaaaaaaaaaaaaabMbMaaaaaaaaaaaaaaaaadabababababababababababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababaaaa
+aaaaaaaaaaaaaaaaaaaaaaabababababababababadadababadababababaaaaaaaaaaadababababababababababababadaaaaaaaaaaaaaaaaaaaaaabMbMaaaaaaaaaaaaaaaaadababababababababababababadadadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababaa
+aaaaaaaaaaaaaaaaaaaaaaaaabababacababababaaaaadabadaaaaaaaaaaaaaaaaaaaaadababababababababadadadaaaaaaaaaaaaaaaaaaaaaaaabMdnaiaaaaaaaaaaaaaaaaababababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaababababaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaababababababababaaaaadababaaaaaaaaaaaaaaaaaaaaaaadadabababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabMbMakaaaaaaaaaaaaaaaaadabababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababaaaaaaaaaaaaababaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaababababababababaaaaabababababaaaaaaaaaaaaaaaaaaaaaaadabababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaibMakdododododododododoababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababadaaaaababababababaaaaaaaaaaaaaaaaaaaaadabababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabMbMakaaaaaaaaaaaaaaaaaaadabababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababacababababababababababaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababadaaaaababababababaaaaaaaaaaaaaaaaaaaaadabababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabMbMdpaaaaaaaaaaaaaaaaaaaaabababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababacabababaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababadaaaaabababababaaaaaaaaaaaaaaaaaaaaaaaaadabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabMbMakdodododododododododoadababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababaaaaaaababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabMbMdqaaaaaaaaaaaaaaaaaaaaaaabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababaaaaaaaaabaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaakakaaaaaaaaaaaaaaaaaaaaaaaaabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababacababababababababaaaaaaaaaaaaaaaaaaaa
+aaaaadadadaaadadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaa
+aaaaababadadadadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaa
+aaadacabababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacababababababacababababaaaaaaaaaaaaaaaaaaaaaaaa
+aaadababababadadadadadadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababadadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaadabababababababacabababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadadababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaadadadadadadadababababadadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaadadadadabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadababacabababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaadabababadadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababacabababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaadadabababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaadadacababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaadadababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababacababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababaaaaaaaaaaaaaaaaaaaaababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababacabadababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababaaaaaaaaaaaaabadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabababababababababababadadadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababaaaaaaaaaaababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadadabababababababababadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaababababaaaaaaaaaaaaababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadabadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadadadadadadadadadadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababaaaaaaaaaaaaababaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababacababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababacabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababacababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacababababababacababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

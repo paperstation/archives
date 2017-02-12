@@ -1,0 +1,18 @@
+Trying to change property 'svn:ignore' from 'banlist.bdb.lk
+job_fullnew.bdb.lk
+player_saves
+' to 'banlist.bdb.lk
+job_fullnew.bdb.lk
+logs
+player_saves
+*
+',
+but the property has been locally changed from 'banlist.bdb.lk
+job_fullnew.bdb.lk
+player_saves
+' to 'banlist.bdb.lk
+job_fullnew.bdb.lk
+logs
+player_saves
+*
+'.

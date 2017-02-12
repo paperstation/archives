@@ -1,0 +1,212 @@
+<html>
+	<head>
+		<style>
+			html, body{
+				/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+				background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzA0MDYwNyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMxMzIzMjciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+				background: -moz-linear-gradient(top,  #040607 0%, #132327 100%); /* FF3.6+ */
+				background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#040607), color-stop(100%,#132327)); /* Chrome,Safari4+ */
+				background: -webkit-linear-gradient(top,  #040607 0%,#132327 100%); /* Chrome10+,Safari5.1+ */
+				background: -o-linear-gradient(top,  #040607 0%,#132327 100%); /* Opera 11.10+ */
+				background: -ms-linear-gradient(top,  #040607 0%,#132327 100%); /* IE10+ */
+				background: linear-gradient(top,  #040607 0%,#132327 100%); /* W3C */
+				filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#040607', endColorstr='#132327',GradientType=0 ); /* IE6-8 */
+				padding: 0;
+				margin: 0;
+				color: #aa8989;
+				font-family: arial;
+				font-size: 12px;
+			}
+			
+			a {
+				color: #999;
+			}
+			
+			#charsetup a {
+				color: #aa8989;
+				text-decoration: none;
+			}
+		</style>
+		<script>
+			var name = "HoNK HoNKerson";
+			var gender = false;
+			var age = 23;
+			var uistyle = false;
+			var adminmidis = true;
+			
+			function openChangelog()
+			{
+				document.getElementById('changelog').style.display = 'block';
+				document.getElementById('charsetup').style.display = 'none';
+			}
+			
+			function openCharacterSetup()
+			{
+				document.getElementById('changelog').style.display = 'none';
+				document.getElementById('charsetup').style.display = 'block';
+			}
+			
+			function feedData(new_name, new_gender, new_age, new_uistyle, new_adminmidis)
+			{
+				name = new_name;
+				document.getElementById('name').innerText = name;
+				gender = !!new_gender;
+				document.getElementById('gender').innerHTML = gender ? "Female" : "Male";
+				age = new_age;
+				document.getElementById('age').innerText = age;
+				uistyle = !!new_uistyle;
+				document.getElementById('uistyle').innerHTML = uistyle ? "New" : "Old";
+				adminmidis = !!new_adminmidis;
+				document.getElementById('adminmidis').innerHTML = adminmidis ? "On" : "Off";
+			
+				document.getElementById('loading').style.display = 'none';
+				document.getElementById('main').style.display = 'block';
+			}
+			
+			function verifyName(name)
+			{
+				var new_name = name;
+				var badCharacters = ['_', '\'', '"', '<', '>', ';', '[', ']', '{', '}', '|', '\\', '&'];
+				
+				for (var character in badCharacters)
+				{
+					new_name = new_name.replace(character, '');
+				}
+				
+				if (new_name.replace(/^\s*|\s*$/g, '').length == 0 || new_name.indexOf(' ') == -1)
+					return false;
+				return true;
+			}
+			
+			function nameKeyPress(event)
+			{
+				if (event.which == 13)
+				{
+					event.srcElement.blur();
+					nameChange(event.srcElement);
+					return false;
+				}
+				return true;
+			}
+			
+			function nameOnBlur(event)
+			{
+				nameChange(event.srcElement);
+			}
+			
+			function nameChange(element)
+			{
+				var new_name = element.innerText
+				if (!verifyName(new_name))
+				{
+					element.innerText = name;
+					alert('Not a valid name (Needs to have a first and last name, and no weird characters)');
+				}
+				else
+				{
+					lastGoodName = new_name;
+				}
+			}
+			
+			function switchGender()
+			{
+				gender = !gender;
+				document.getElementById('gender').innerHTML = gender ? "Female" : "Male";
+			}
+			
+			function ageKeyPress(event)
+			{
+				var keyCode = event.which;
+				if (keyCode > 31 && (keyCode < 48 || keyCode > 57))
+					return false;
+				if (keyCode == 13)
+				{
+					event.srcElement.blur();
+					ageChange(event.srcElement);
+					return false;
+				}
+				
+				return true;
+			}
+			
+			function ageOnBlur(event)
+			{
+				ageChange(event.srcElement);
+			}
+			
+			function ageChange(element)
+			{
+				age = Math.min(Math.max(parseInt(element.innerText), 20), 45);
+				if (age != age)
+					age = 23;
+				element.innerText = age;
+			}
+			
+			function switchUI()
+			{
+				uistyle = !uistyle;
+				document.getElementById('uistyle').innerHTML = uistyle ? "New" : "Old";
+			}
+			
+			function switchMidis()
+			{
+				adminmidis = !adminmidis;
+				document.getElementById('adminmidis').innerHTML = adminmidis ? "On" : "Off";
+			}
+		</script>
+	</head>
+	<body>
+		<div style="background: url('stars.gif'); width: 100%; height: 100%;">
+			<div style="margin-top: 20px; display: none;" id="main">
+				<center>
+					<img src="d2stationv4.gif"/>
+				</center>
+				<br/>
+				<div style="font-size: 9pt; padding: 14px;">
+					D2StationV4 is a rewrite of most of the goonstation and /tg/station code to make it much faster and cleaner, this also includes a lot of bugfixes and of course, many new features. This is all done by two primary coders <b>ErikaT</b> and <b>Emyylii</b> and our additional developers <b>Tobba</b>, <b>FlammableLemon</b>, <b>Nernums</b>, <b>DigbyCaesar</b> and <b>JoeyJo0</b>.<br/><br/>All questions, suggestions and bug reports should be taken to the <a href="http://d2k5.com/forums/electric-chair-suggestions.24/" target="_blank">forums</a> as we are unable to keep track and redirect them to the correct personnel from ingame.
+					<br/><br/>
+					<div style="display: none;" id="changelog">
+						<big><b>Changelog:</b></big><br/><span style="float:right;"><a href = "javascript:openCharacterSetup();"><big><b>Character Setup</b></big></a><br/></span>
+						
+						changelogs
+					</div>
+					<div id="charsetup">
+						<big><b>Character Setup:</b></big><br/><span style="float:right;"><a href = "javascript:openChangelog();"><big><b>Changelog</b></big></a><br/></span>
+						
+						<table border=0 bordercolor="" width="90%" bgcolor="">
+							<tr>
+								<td>
+									<font size = 2>
+										<b>Name: </b><span id="name" contentEditable="true" onkeydown="return nameKeyPress(event);" onBlur="nameOnBlur(event);">HoNK HoNKerson</span><br/>
+										<b>Gender: </b><a id="gender" href="javascript:switchGender();">Male</a><br/>
+										<b>Age: </b><span id="age" contentEditable="true" onkeydown="return ageKeyPress(event);" onBlur="ageOnBlur(event);">23</span><br/>
+										<b>UI Style: </b><a id="uistyle" href="javascript:switchUI();">Old</a><br/>
+										<b>Play admin midis: </b><a id="adminmidis" href="javascript:switchMidis();">On</a><br/>
+									</font>
+								</td>
+							</tr>
+						</table>
+					</div>
+					<br/>
+					<br/>
+					<big><b>Developers:</b></big><br/>
+					<a target="_blank" href="http://d2k5.com/members/erika.1/"><img width="21px" height="21px" src="http://d2k5.com/data/avatars/m/0/1.jpg" border="0" style="margin: -2px 0;"></a> <b>ErikaT</b> - Hosting, webdesign, graphics design, spriting, coding, mapping.<br/>
+					<a target="_blank" href="http://d2k5.com/members/emyylii.12/"><img width="21px" height="21px" src="http://d2k5.com/data/avatars/m/0/12.jpg" border="0" style="margin: -2px 0;"></a> <b>Emyylii</b> - Coding, mapping, spriting.<br/>
+					<a target="_blank" href="http://d2k5.com/members/flammablelemon.15/"><img width="21px" height="21px" src="http://d2k5.com/data/avatars/m/0/15.jpg" border="0" style="margin: -2px 0;"></a> <b>FlammableLemon</b> - Hosting, coding, spriting.<br/>
+					<a target="_blank" href="http://d2k5.com/members/nernums.91/"><img width="21px" height="21px" src="http://d2k5.com/data/avatars/m/0/91.jpg" border="0" style="margin: -2px 0;"></a> <b>Nernums</b> - Coding, mapping.<br/>
+					<a target="_blank" href="http://d2k5.com/members/tobba.299/"><img width="21px" height="21px" src="http://d2k5.com/data/avatars/m/0/299.jpg" border="0" style="margin: -2px 0;"></a> <b>Tobba</b> - Coding, mapping.<br/>
+					<a target="_blank" href="http://d2k5.com/members/digbycaesar.162/"><img width="21px" height="21px" src="http://d2k5.com/styles/iskin/xenforo/avatars/avatar_male_l.png" border="0" style="margin: -2px 0;"></a> <b>DigbyCaesar</b> - Coding, spriting.<br/>
+					<a target="_blank" href="http://d2k5.com/members/joeyjo0.7/"><img width="21px" height="21px" src="http://www.gravatar.com/avatar/6bfc2a4e3e4951223dfec7e56dc5c076.jpg?s=192&d=http%3A%2F%2Fd2k5.com%2Fstyles%2Fiskin%2Fxenforo%2Favatars%2Favatar_l.png" border="0" style="margin: -2px 0;"></a> <b>JoeyJo0</b> - Coding, spriting, mapping.
+					<br/><br/><b>Credits:</b><br/>
+					<a href="http://ss13.donglabs.com/index.php?title=Main_Page" target="_blank">Goonstation</a> and <a href="http://tgstation13.servehttp.com/" target="_blank">tgstation13</a>
+					<br/>Server powered by <a href="https://client.fanaticalvps.com/aff.php?aff=033" target="_blank">Fanatical Unmetered VPS Hosting</a>
+					<span style="float:right;"><img src="d2k5logo.gif"/>&nbsp;&nbsp;&nbsp;</span>
+					<br/><br/><br/>
+				</div>
+			</div>
+			<div id="loading" style="width: 300px; height: 200px; position: absolute; left: 50%; top: 50%; margin: -100px 0 0 -150px; text-align: center">
+				<h1><b>Loading...</b></h1>
+			</div>
+		</div>
+	</body>
+</html>

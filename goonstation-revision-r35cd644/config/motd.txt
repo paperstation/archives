@@ -1,0 +1,14 @@
+<h1>A Galactic Order of Oppressive Neckbeards Goon Station 13 server!</h1>
+<i>Managed by Pantaloons.</i><br>
+Need to talk over radio? '<b>say ;your message</b>'<br>
+Got a question about game mechanics? Use <b>mentorhelp</b> or consult the <a href="http://wiki.ss13.co/">wiki</a>.<br>
+Got a problem? Use <b>adminhelp</b> if you want to complain about it, not deadchat or OOC.</b><br>
+Got a suggestion? Post it on the Goonstation <a href="http://forum.ss13.co/index.php">discussion forum</a>.<br>
+<br>
+<b>By playing here you accept that you may occasionally / frequently be toolboxed / bombed / burned at any time for someone's amusement.</b>
+<br>
+<h3><span style="color:#FF0000">BIG BAD LIST OF THINGS THAT COULD GET YOU BANNED:</span></h3>
+<strong><span style="color:#FF0000">Not reading the rules.</span><br>
+<a href="http://wiki.ss13.co/Rules"><span style="color:#FF0000">See the wiki page through this link for the most up-to-date rules, or the 'Rules' command if the wiki is currently down.</span></a></strong>
+<br>
+<h2><span style="color:#0000FF;text-decoration:none">Enjoy the server? Join <b>#goonstation</b> on synIRC (</span><a href="http://cgiirc.synirc.net/"><span style="color:#0000FF;text-decoration:none">webclient link</span></a><span style="color:#0000FF;text-decoration:none">) and contact <b>Rick</b> for donations.</span></h2>
